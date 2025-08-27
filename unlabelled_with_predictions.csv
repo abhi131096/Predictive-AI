@@ -1,0 +1,1597 @@
+record_id,department,text,worked_hrs,charged,grade,predicted_category
+p-0001,a,amending and updating statement,0.4,YES,Senior,preparing documents
+p-0002,a,reviewed court order and drafted advice email to client,1.3,YES,Junior,client time
+p-0004,a,"communicate (other party(s)/other outside lawyers) - email in from other side attaching letter, form h, form g, case summary and schedule of assets",0.1,YES,Junior,Other comms
+p-0005,a,filing physical documents,0.1,NO,Junior,admin
+p-0006,a,"emailing client to acknowledge safe receipt of id documents, payment and to also confirm appointment time and date tomorrow",0.1,YES,Junior,client time
+p-0007,a,considered email and order from client ; short reply and next steps to follow,0.1,YES,Senior,client time
+p-0008,a,draft/ revise post-nup,0.3,YES,Senior,preparing documents
+p-0009,a,exchange of emails with client,0.2,YES,Partner,client time
+p-0011,a,finalising preliminary documents for the dra,0.3,YES,Senior,"analyse, review, research"
+p-0012,a,finalising schedule of assets ahead of mediaition session 2 - following client instructions,0.2,YES,Junior,preparing documents
+p-0013,a,internal discussions re client tax returns,0.2,YES,Junior,client time
+p-0014,a,preparing letter of engagement and risk assessment,0.7,NO,Junior,onboarding
+p-0015,a,email from client,0.1,YES,Partner,client time
+p-0016,a,email from client approving letter and with state pension information,0.1,YES,Senior,client time
+p-0018,a,internal discussion with compliance partner re funding options,0.4,NO,Junior,admin
+p-0019,a,"email to client with email form re timetable towards financial dispute resolution hearing and what client needs to do, info re pensions.",0.1,YES,Senior,client time
+p-0020,a,communicate (other party(s)/other outside lawyers) - from other side re financial dispute resolution value for house and adjourning financial dispute resolution.,0.1,YES,Senior,Other comms
+p-0021,a,draft letter of engagement and associated documents.,0.8,NO,Junior,onboarding
+p-0022,a,draft new letter of engagement for consent order,0.5,NO,Senior,onboarding
+p-0023,a,supervision: review and revise draft letter other side,0.5,NO,Senior,preparing documents
+p-0024,a,communicate (other party(s)/other outside lawyers) email out to other side suggesting call,0.1,YES,Junior,Other comms
+p-0026,a,preparing submissions for today's hearing.,0.3,YES,Senior,preparing documents
+p-0027,a,review files for private financial dispute resolution,0.1,YES,Senior,"analyse, review, research"
+p-0029,a,"communicate (internally within legal team) - multiple discussions re client position, amends to proposals",1.1,YES,Partner,Other comms
+p-0031,a,draft letter of engagement and associated documents.,0.9,NO,Junior,onboarding
+p-0032,a,review d eighty one,0.3,YES,Partner,"analyse, review, research"
+p-0033,a,drafting letter of engagement. onboarding client.,0.7,NO,Junior,onboarding
+p-0034,a,drafted brief and c2,0.7,YES,Senior,preparing documents
+p-0035,a,draft note of hearing,0.5,YES,Senior,preparing documents
+p-0036,a,communicate (internally within legal team) re partners emails on way forward,0.1,YES,Senior,Other comms
+p-0037,a,draft proposal for settlement,1.6,YES,Senior,preparing documents
+p-0038,a,communicate (other party(s)/other outside lawyers)- email out other side re consent order,0.3,YES,Senior,Other comms
+p-0039,a,update email to client v detailed and clear on all matters,0.5,YES,Senior,client time
+p-0042,a,"communicate (internally within legal team) - update from ac and confirm next steps (coms with other side, bundle and court, update to client and counsel).",0.2,YES,Senior,Other comms
+p-0046,a,emails with client re statement,0.2,YES,Junior,client time
+p-0047,a,communicate (other party(s)/other outside lawyers) email out to other side re valuations,0.1,YES,Junior,Other comms
+p-0048,a,emails with potential new client,0.2,YES,Partner,client time
+p-0049,a,reviewed section 7 addendum and flagged safeguarding concerns,2.3,YES,Partner,"analyse, review, research"
+p-0050,a,draft/ revise - letter to other solicitor,0.2,YES,Partner,preparing documents
+p-0051,a,communicate (other party(s)/other outside lawyers) email out to other side re mortgage capacity evidence,0.1,YES,Junior,Other comms
+p-0052,a,draft/ revise - brief to counsel,1,YES,Senior,preparing documents
+p-0054,a,"considering email in from the client, reviewing w pensions and responding to client by email",0.3,YES,Junior,client time
+p-0058,a,revise / amends to letter,0.3,YES,Junior,preparing documents
+p-0059,a,communicate (other party(s)/other outside lawyers) email out to other side proposing exchange of replies,0.1,YES,Junior,Other comms
+p-0062,a,email to client attaching updated form e and enclosures for review.,0.4,YES,Junior,client time
+p-0063,a,"amend letter, confirm costs and send to client for approval with advice.",0.2,YES,Junior,preparing documents
+p-0064,a,communicate (with client) re barristers and paperwork,0.1,YES,Senior,client time
+p-0065,a,"substantive advice to client regarding salient points in the case, risk factors and court's approach, how to progress arrangements",1.4,YES,Junior,client time
+p-0066,a,drafting initial documentation (funding risk assessment and letter of engagement),0.8,NO,Junior,onboarding
+p-0067,a,"email from client re call, update and next steps.",0.1,YES,Senior,client time
+p-0068,a,email to client re meeting,0.1,YES,Junior,client time
+p-0069,a,email to client re finalise witness statement in response.,0.1,YES,Senior,client time
+p-0070,a,emails with client,0.2,YES,Senior,client time
+p-0071,a,draft/ revise letter of engagement,0.5,NO,Senior,onboarding
+p-0072,a,draft/ revise letter to court,0.4,YES,Junior,preparing documents
+p-0074,a,preparing letter of engagement.,1.2,NO,Junior,onboarding
+p-0075,a,email re client meeting on 1 july. requesting confirmation of meeting,0.1,YES,Junior,client time
+p-0077,a,communicate (other party(s)/other outside lawyers) - email in attaching h form e,0.1,YES,Junior,Other comms
+p-0079,a,draft/ revise d eighty one,0.4,YES,Senior,preparing documents
+p-0082,a,arrange recalling property deeds from storage,0.1,NO,Senior,admin
+p-0083,a,email out to client updating on current position with various directions ahead of offer/financial dispute resolution,0.4,YES,Junior,client time
+p-0084,a,emails x 3 from client. consider and respond including follow up re delaying progressing appliction for the final order in divorce.,0.3,YES,Senior,client time
+p-0086,a,draft directions order,0.8,YES,Senior,preparing documents
+p-0087,a,consent order prepared; reviewing d eighty one,0.5,YES,Senior,preparing documents
+p-0088,a,draft letter of advice,1,YES,Senior,preparing documents
+p-0090,a,reviewing and amending letter of engagement and risk assessment,0.4,NO,Junior,onboarding
+p-0091,a,update to client ahead of hearing to assist with his prep,1,YES,Senior,client time
+p-0092,a,supervision of email,0.4,NO,Partner,onboarding
+p-0093,a,d eighty one,1.1,YES,Senior,preparing documents
+p-0095,a,advice to client on offer,0.5,YES,Senior,client time
+p-0096,a,reformatting documents,1.8,YES,Junior,preparing documents
+p-0097,a,communicate (experts) email in from doctor,0.1,YES,Senior,Other comms
+p-0098,a,updated draft loi,0.1,YES,Junior,preparing documents
+p-0101,a,draft/ revise order,0.2,YES,Senior,preparing documents
+p-0103,a,communicate (with client) cafcass s7 report long email commnets considered,0.1,YES,Senior,client time
+p-0104,a,call with new client - referral,0.7,YES,Junior,client time
+p-0105,a,reviewing list of mortgage capacity provider costs and creating list to share with client for instructions.,0.2,YES,Junior,client time
+p-0106,a,printing documents,0.1,NO,Junior,admin
+p-0107,a,reviewed draft form e and noted missing pension details,1.6,YES,Senior,"analyse, review, research"
+p-0108,a,draft/ revise - letter of engagement and risk assessment,0.7,NO,Partner,onboarding
+p-0109,a,updating letters re development in divorce proceedings and offer,0.3,YES,Junior,preparing documents
+p-0110,a,review and analysis section 7 report- initial review of report and highlighting key parts for discussion with client,1.5,YES,Senior,"analyse, review, research"
+p-0111,a,meeting,1,YES,Partner,client time
+p-0114,a,email to client re invoices,0.1,YES,Partner,client time
+p-0116,a,"email out to client re costs orders, offers and employment",0.4,YES,Junior,client time
+p-0118,a,proof-reading and finalising letter to send to other side and re-dating and converting into pdf,0.3,YES,Junior,preparing documents
+p-0119,a,exchange of emails with other side re exchange of docs,0.2,YES,Senior,client time
+p-0121,a,communicate (other party(s)/other outside lawyers) re school reports documents,0.1,YES,Senior,Other comms
+p-0122,a,communicate (other external) draft email and serve at court,0.3,YES,Junior,Other comms
+p-0123,a,"email from client - ""sounds like things are getting back on track so thank you"".",0.1,YES,Senior,client time
+p-0124,a,document production creation and preparation - letter of engagement and risk assessment,0.6,NO,Senior,onboarding
+p-0125,a,email to client with court-sealed order,0.1,YES,Partner,client time
+p-0127,a,communicate (internally within legal team) re barristers for first hearing,0.1,YES,Junior,Other comms
+p-0128,a,drafting letter of engagement.,0.6,NO,Junior,onboarding
+p-0129,a,email from client re letter to other side,0.2,YES,Senior,client time
+p-0130,a,email to client sending email to la for approval.,0.1,YES,Senior,client time
+p-0131,a,"advice to client re delay from other side, strategy and progression moving forward",0.3,YES,Junior,client time
+p-0132,a,communicate (internally within legal team) discussing how to approach new instructions to issue then withdraw c2,0.3,YES,Senior,Other comms
+p-0133,a,analysis of cafacass report,1.8,YES,Senior,"analyse, review, research"
+p-0134,a,emasil to client setting out clear next steps,0.2,YES,Junior,client time
+p-0135,a,drafting email response to other solicitor re request for authority from both parties to release conveyancing file.,0.3,YES,Junior,preparing documents
+p-0138,a,reviewed outstanding invoices and followed up with client,0.5,NO,Junior,admin
+p-0139,a,"finalising draft letter of engagement and sending to family onboarding partners, requesting approval. email to client providing update that letter of engagement will be sent out tomorrow.",0.7,NO,Junior,onboarding
+p-0141,a,considering file and preparing n260.,1,YES,Senior,"analyse, review, research"
+p-0142,a,email out to client with mortgage cap report,0.1,YES,Junior,client time
+p-0143,a,"email to client with next steps and a few notes of what she might wish to discuss at mediation and raise with the mediator, suggestions of how to deal with mediation - for example, a note pad with some notes as client can get a little off track and this might keep her focused.",0.2,YES,Senior,client time
+p-0144,a,email from client. follow-up email to client,0.2,YES,Partner,client time
+p-0145,a,draft/ revise response to complaint - not charged,1,NO,Senior,admin
+p-0149,a,client meeting v detailed and lots covered,2.2,YES,Senior,client time
+p-0152,a,reviewing capacity report.,0.3,YES,Senior,"analyse, review, research"
+p-0153,a,email out to the client attaching final approved questionnaire for her information and records,0.2,YES,Junior,client time
+p-0154,a,review and amend draft documents for mediation,0.2,YES,Senior,preparing documents
+p-0155,a,review and analysis file before call,0.2,YES,Senior,"analyse, review, research"
+p-0156,a,continued review of transcripts,1,YES,Partner,"analyse, review, research"
+p-0157,a,call with client and brother (see note),1.7,YES,Senior,client time
+p-0158,a,several emails in and out with client regarding draft order and chasing other side.,0.1,YES,Senior,client time
+p-0159,a,review client's statement and exhibits,0.6,YES,Senior,"analyse, review, research"
+p-0161,a,review and analysis,0.5,YES,Partner,"analyse, review, research"
+p-0162,a,draft/ revise funding letter to accompany letter of engagement.,0.6,NO,Senior,onboarding
+p-0163,a,initial review of income needs schedule,1,YES,Senior,"analyse, review, research"
+p-0164,a,communicate (with client) costs quety,0.2,NO,Senior,admin
+p-0165,a,preparing a letter of engagement and risk assessment,0.6,NO,Junior,onboarding
+p-0166,a,reviewed draft directions and added comments for counsel,1.4,YES,Senior,"analyse, review, research"
+p-0167,a,email to client enclosing substantive updates from other side setting out advice and key considerations to move case forward,0.6,YES,Junior,client time
+p-0170,a,client meeting re pension form e and mediation,0.9,YES,Senior,client time
+p-0171,a,team weekly meeting,0.5,NO,Senior,admin
+p-0173,a,second call out to the client to go through draft questionnaire in more detail which was approved,0.2,YES,Junior,client time
+p-0174,a,communicate (internally within legal team) re process to register charging order,0.1,YES,Junior,Other comms
+p-0175,a,email to client re timescale for response of schedule and mortgage report,0.1,YES,Senior,client time
+p-0177,a,amending irder and sending to client,0.2,YES,Senior,client time
+p-0178,a,email exchange of advice with client,0.5,YES,Junior,client time
+p-0179,a,review most recent spreadsheet and consideration of proposals,0.3,YES,Partner,"analyse, review, research"
+p-0180,a,reviewed&finalised consent order,0.8,YES,Partner,"analyse, review, research"
+p-0181,a,re costs budget (client),0.2,NO,Junior,admin
+p-0182,a,eails x2 re contact centre,0.2,YES,Senior,client time
+p-0184,a,call out to the client to discuss draft questionnaire,0.2,YES,Junior,client time
+p-0185,a,communicate (experts): call and emails with pension expert,0.2,YES,Junior,Other comms
+p-0186,a,reviewed bundle index and flagged missing documents,1.4,YES,Senior,"analyse, review, research"
+p-0188,a,review and analysis of 6 emails from client with updates/orders/draft letters and managing files to date.,0.3,YES,Junior,"analyse, review, research"
+p-0190,a,updating form e1 & schedule of outgoings,1.5,YES,Junior,preparing documents
+p-0191,a,call re advice loi for pension and next steps as well as note of call,0.4,YES,Senior,client time
+p-0192,a,emails with potential new client,0.2,YES,Senior,client time
+p-0193,a,attend on clirnt in inital appointment,1.3,YES,Senior,client time
+p-0194,a,tel call from client re potential wardship proceedings.,0.4,YES,Partner,client time
+p-0196,a,setailed advice letter dictated and considered / finalised ; detailed important advice and letter.,1.1,YES,Senior,preparing documents
+p-0198,a,"your email in, check and confirm ready to exchange",0.2,YES,Partner,client time
+p-0200,a,initial meeting with client; emails with client.,1.7,YES,Senior,client time
+p-0201,a,communicate (other party(s)/other outside lawyers) client will agree to pay court fee,0.1,YES,Junior,Other comms
+p-0203,a,review and amend letter to other side,0.1,YES,Junior,preparing documents
+p-0204,a,communicate (internally within legal team) strategy discussions,0.4,YES,Senior,Other comms
+p-0205,a,email exchange with client,0.7,YES,Junior,client time
+p-0206,a,proposal drafted following client discussion,0.4,YES,Junior,preparing documents
+p-0207,a,"draft/ revise - reviewed position onte fully x2, made amends and comment to counsel",0.4,YES,Senior,"analyse, review, research"
+p-0208,a,reading over and considering matters,0.2,YES,Senior,"analyse, review, research"
+p-0209,a,"reviewing client's email regarding appeal, preparing detailed response and reviewing appellant's notice, grounds of appeal and skeleton argument.",2.3,YES,Senior,"analyse, review, research"
+p-0210,a,communicate (other party(s)/other outside lawyers) - letter from other side confirming will proceed with mediation.,0.2,YES,Senior,Other comms
+p-0212,a,review and analysisog housing particulars - including reviewing floor plans and locations,0.2,YES,Partner,"analyse, review, research"
+p-0213,a,communicate (other party(s)/other outside lawyers) email out to other side re belongings,0.2,YES,Junior,Other comms
+p-0214,a,reviewed and approved final invoice for client,0.3,NO,Partner,billing
+p-0215,a,email out to client with docs from other side,0.1,YES,Junior,client time
+p-0216,a,attending conference,1,NO,Junior,admin
+p-0218,a,meeting with client,1.8,YES,Junior,client time
+p-0222,a,econsidering email in from the client providing outstaning financial information,0.1,YES,Junior,client time
+p-0223,a,communicate (other party(s)/other outside lawyers) email in from other side re order and d eighty one,0.1,YES,Junior,Other comms
+p-0224,a,emails with client re next steps,0.2,YES,Senior,client time
+p-0225,a,draft/ revise amending statement,1.3,YES,Senior,preparing documents
+p-0226,a,communicate (internally within legal team) for judicial view given developments in the case,0.4,YES,Partner,Other comms
+p-0231,a,draft/ revise d eighty one,0.4,YES,Senior,preparing documents
+p-0232,a,email from client regarding passport,0.1,YES,Senior,client time
+p-0233,a,review and amend enclosures,0.4,YES,Senior,"analyse, review, research"
+p-0234,a,updating / finishing case summary,1.5,YES,Junior,preparing documents
+p-0236,a,department meeting,1,NO,Partner,admin
+p-0238,a,drafted response to letter of claim version 2,1.8,YES,Senior,preparing documents
+p-0239,a,communicate (other party(s)/other outside lawyers) email out to other side with mortgage cap report,0.1,YES,Junior,Other comms
+p-0240,a,communicate (internally within legal team) stratedgy discussion re open offer,0.3,YES,Senior,Other comms
+p-0244,a,reviewed income needs schedule,0.8,YES,Senior,"analyse, review, research"
+p-0246,a,various emails from client with emails he has had from conveyancing solicitors,0.4,YES,Partner,client time
+p-0247,a,communicate (with outside counsel) re order now settled amend final and lodge,0.1,YES,Senior,Other comms
+p-0249,a,email out to the client attaching con note and requesting info and evidence re further training and health issues,0.2,YES,Junior,client time
+p-0250,a,"communicate (with client) regarding general practitioner letter, amended cafcass section 7 report, third party disclosure and call.",0.4,YES,Senior,client time
+p-0252,a,email in from the client attaching creditcard balance to add to schedule of assets,0.1,YES,Junior,client time
+p-0253,a,initial drafting of pna,1.5,YES,Partner,preparing documents
+p-0254,a,internal feedback session,1,NO,Junior,admin
+p-0255,a,summarised draft directions prior to call,0.4,YES,Senior,"analyse, review, research"
+p-0256,a,review questionnaire and making amendments.,0.8,YES,Senior,"analyse, review, research"
+p-0257,a,tel call to client (voicemail with advice) followed up with an email setting out advice in writing,0.3,YES,Junior,client time
+p-0258,a,"communicate (other party(s)/other outside lawyers) - email out to other side serving d11 application, loi and quotes re buisness valuation",0.1,YES,Junior,Other comms
+p-0259,a,review letter of engagement and risk assessment,0.6,NO,Junior,onboarding
+p-0260,a,exchange of emails with client re call,0.2,YES,Senior,client time
+p-0261,a,communicate (other party(s)/other outside lawyers) email in from other side re disclosure,0.1,YES,Junior,Other comms
+p-0262,a,preparing and finalising questionnaire in readiness for filing and serving,1.4,YES,Junior,preparing documents
+p-0263,a,updating d eighty one form,0.4,YES,Senior,preparing documents
+p-0264,a,reviewed updated draft of witness statement and added comments,1.6,YES,Senior,"analyse, review, research"
+p-0265,a,long call with client folowing her incident. consdiering way forward,0.3,YES,Partner,client time
+p-0266,a,emails with you,0.1,YES,Partner,client time
+p-0267,a,draft/ revise advice to client,1.5,YES,Senior,preparing documents
+p-0268,a,updating supervisor,0.2,NO,Junior,admin
+p-0269,a,communicate (other external) email to court re financial dispute resolution hearing date,0.1,YES,Junior,Other comms
+p-0271,a,reviewed updated bundle index from other side,0.9,YES,Junior,"analyse, review, research"
+p-0272,a,review replies and adding in information provided by client,0.3,YES,Senior,"analyse, review, research"
+p-0273,a,review/finalise statements,0.6,YES,Senior,"analyse, review, research"
+p-0274,a,letter to client relating to divorce and other matters.,0.3,YES,Senior,client time
+p-0275,a,review/approve/amend various file closure letters,0.5,YES,Senior,"analyse, review, research"
+p-0276,a,emails from client (x2) and tel call in response,0.2,YES,Partner,client time
+p-0280,a,internal doc reviw,0.2,NO,Junior,admin
+p-0281,a,further exchange of emails and sending email to other side,0.2,YES,Partner,client time
+p-0282,a,communicate (internally within legal team) internal discussion re possible intermediary,0.3,YES,Junior,Other comms
+p-0283,a,draft/ revise - open proposal,1.7,YES,Senior,preparing documents
+p-0284,a,communicate (internally within legal team) - teams to discuss case status and next steps to progress case,0.2,YES,Senior,Other comms
+p-0285,a,reviewing notice of conditional order,0.4,YES,Senior,"analyse, review, research"
+p-0286,a,communicate (other party(s)/other outside lawyers) - email out to other side chasing d eighty one,0.1,YES,Junior,Other comms
+p-0287,a,on call with it for password reset,0.3,NO,Junior,admin
+p-0288,a,review client comments add additional info on statement draft. amend accordingly,1,YES,Senior,preparing documents
+p-0289,a,"upload order, d eighty one and psa to portal.",0.2,YES,Junior,preparing documents
+p-0290,a,drafting letter of engagement following client meeting. emailed this and risk assessment for approval.,1,NO,Junior,onboarding
+p-0291,a,review court paperwork,0.3,YES,Partner,"analyse, review, research"
+p-0292,a,communicate (internally within legal team) review discuss and progress form e,0.2,YES,Senior,Other comms
+p-0295,a,communicate (other party(s)/other outside lawyers) - from other side re mediation.,0.1,YES,Senior,Other comms
+p-0297,a,email to client requesting copies of id before initial appointment.,0.1,NO,Junior,onboarding
+p-0298,a,updating schedule of assets form - updated property value.,0.4,YES,Junior,preparing documents
+p-0299,a,uploading all case files to system,0.6,NO,Senior,admin
+p-0300,a,"preparing instructions to counsel (detailed instructions, first brief)",1.8,YES,Junior,preparing documents
+p-0303,a,communicate (with client) - sharepoint call,0.8,YES,Junior,client time
+p-0305,a,it issues,0.3,NO,Junior,admin
+p-0306,a,speaking to potential new client and file set up,1,YES,Partner,client time
+p-0307,a,appear for/ attend meeting with counsel,1.7,YES,Junior,client time
+p-0308,a,review/analyse- revise/amend letter of engagement,1.2,YES,Senior,"analyse, review, research"
+p-0309,a,checking/amending risk assessment and amending letter of engagement.,0.5,YES,Senior,onboarding
+p-0310,a,inital appointment with client,1,YES,Senior,client time
+p-0312,a,drafting attendance note of final hearing,0.3,YES,Senior,preparing documents
+p-0313,a,update schedule of assets with figures from rtq & consider position - prep for drafting proposal,0.5,YES,Junior,preparing documents
+p-0314,a,draft c100,0.3,YES,Senior,preparing documents
+p-0315,a,client call ; next steps and advice on progress,0.4,YES,Senior,client time
+p-0316,a,email out with advice and draft letter,0.1,YES,Partner,client time
+p-0317,a,call with client - take instructions,0.5,YES,Senior,client time
+p-0320,a,drafting complaint to court,0.7,NO,Junior,admin
+p-0321,a,preliminary work on detailed letter of advice with client,1.5,YES,Partner,client time
+p-0323,a,reviewed updated d eighty one and noted inconsistencies in income figures,1.9,YES,Senior,preparing documents
+p-0324,a,communicate (other party(s)/other outside lawyers) email out to other side re exchange of schedule of def,0.1,YES,Junior,Other comms
+p-0325,a,considering client's email and responding with clear advice,0.3,YES,Junior,client time
+p-0326,a,email out to client advising on questionnaire and private financial dispute resolution,0.5,YES,Senior,client time
+p-0327,a,weekly team call,0.5,NO,Junior,admin
+p-0328,a,communicate (other external) email out to case manager and considering response,0.4,YES,Junior,Other comms
+p-0329,a,"detailed email to client regarding divorce, next steps following sealed order, final divorce order and pension sharing order implementation.",1,YES,Senior,client time
+p-0330,a,communicate (other party(s)/other outside lawyers) email out to other side chasing docs,0.1,YES,Junior,Other comms
+p-0331,a,communicate (with client) re:names of lawyers,0.1,YES,Partner,client time
+p-0333,a,review/add to client advice,0.1,YES,Partner,"analyse, review, research"
+p-0334,a,communicate (with outside counsel) - post conference follow up call,0.5,YES,Senior,Other comms
+p-0336,a,draft letter other side,0.3,YES,Junior,preparing documents
+p-0337,a,initial review of property valuation,1.2,YES,Junior,"analyse, review, research"
+p-0338,a,email out to the client attaching email exchnage asking for her information and records,0.1,YES,Junior,client time
+p-0339,a,reviewing bundle and amnending draft order ahead of the hearing.,0.4,YES,Senior,"analyse, review, research"
+p-0340,a,communicate (other party(s)/other outside lawyers) email out to other side re schedule of deficiencies,0.2,YES,Junior,Other comms
+p-0341,a,"email exchnage with the client re interference with her paypal account, comapnies house and lit loan",0.2,YES,Junior,client time
+p-0343,a,discussion with client regarding concerns and next steps.,0.5,YES,Senior,client time
+p-0345,a,analysis of d eighty one,0.7,YES,Senior,"analyse, review, research"
+p-0347,a,email in from other side re court fee,0.1,YES,Junior,Other comms
+p-0349,a,communicate (internally within legal team) re translation invoice and progres of that and la to update client on that,0.1,YES,Senior,Other comms
+p-0350,a,chaser of client re other side draft deed amendments,0.1,YES,Junior,preparing documents
+p-0351,a,email to client,0.1,YES,Senior,client time
+p-0352,a,share drive,0.4,YES,Junior,admin
+p-0357,a,"communicate (internally within legal team) - multiple comms regarding other side position, client instructions and conveyancing issues",0.4,YES,Partner,Other comms
+p-0358,a,review/approve comms re issue of further retimetabling,0.1,YES,Partner,"analyse, review, research"
+p-0359,a,email from opp and follow-up email to client,0.2,YES,Partner,client time
+p-0360,a,continuing to collate property particulars. adding applicant's purchase properties and obtaining particulars and adding them to document and formatting them.,0.4,YES,Junior,preparing documents
+p-0361,a,"exchange of emails, new pre-nup client",0.2,YES,Partner,client time
+p-0362,a,draft/ revise,1.1,YES,Junior,preparing documents
+p-0364,a,reviewed transcripts,1.9,YES,Senior,"analyse, review, research"
+p-0365,a,reviewed form e and email to client re:more details,0.9,YES,Senior,client time
+p-0369,a,review/analyse- supervision: review and amend sev,0.4,YES,Senior,"analyse, review, research"
+p-0371,a,preparing letter of engagement and risk assessment,1,NO,Junior,onboarding
+p-0372,a,finalise the draft consent order and form n244 (awaiting court and claim number before they can be circulated),0.2,YES,Junior,preparing documents
+p-0375,a,call out to the client to discuss his position in readiness for the dra,1,YES,Junior,client time
+p-0376,a,preparing a letter of engagement,1.2,NO,Junior,onboarding
+p-0379,a,full review of all the enclosures to the replies to supplemental questionnaire and schedule of deficiencies. forensic analysis of the bank statements. preparing detailed letter to other side on the non-disclosure.,2,YES,Junior,preparing documents
+p-0380,a,review and approve case summary,0.8,YES,Senior,"analyse, review, research"
+p-0381,a,"communicate with the court to chase the email, note emails regarding the listing of the hearing and email to secure counsel",0.4,YES,Partner,client time
+p-0382,a,updating s25 enclosure exhibits bundle with property particulars,0.3,YES,Junior,preparing documents
+p-0385,a,updating internal onboarding materials,0.4,NO,Senior,admin
+p-0386,a,completing instructions,0.8,YES,Partner,"analyse, review, research"
+p-0387,a,email in (internal) from onboarding with comments on letter of engagement.,0.1,NO,Junior,onboarding
+p-0388,a,catch up on case progress,0.8,NO,Junior,admin
+p-0390,a,email to client regarding cafcass call,0.3,YES,Senior,client time
+p-0393,a,continuing to draft letter of engagement and complete risk assessment.,0.8,NO,Junior,onboarding
+p-0394,a,communicate (other party(s)/other outside lawyers) email out to conveyancing,0.1,YES,Senior,Other comms
+p-0395,a,emails with client post meeting queries,0.2,YES,Senior,client time
+p-0396,a,email from client re update in 2 weeks,0.1,YES,Senior,client time
+p-0398,a,"finalise letter of engagement, and send to client with terms of business. set up template schedule of assets and email to client with solicitor recommendations.",0.4,NO,Senior,onboarding
+p-0401,a,attendance at court,5.2,YES,Senior,client time
+p-0403,a,review and analysis court paperwork,0.3,YES,Partner,"analyse, review, research"
+p-0404,a,amend and finalise letter of engagement.,0.4,NO,Senior,onboarding
+p-0405,a,email from client re letter and c2,0.1,YES,Senior,client time
+p-0406,a,"communicate (other external) filing c2 at court, serving on other side and communicating with client",0.3,YES,Junior,Other comms
+p-0407,a,email out to the client with update,0.3,YES,Junior,client time
+p-0408,a,email exchnage with the client re approval of draft letter to other side,0.2,YES,Junior,client time
+p-0409,a,review/add to brief to csl for final hearing,0.2,YES,Partner,preparing documents
+p-0410,a,email out to client attaching h counsel's note for fda and letter re sale,0.1,YES,Junior,client time
+p-0413,a,monthly costs review across all cases,1,NO,Partner,admin
+p-0414,a,handover after holidays,0.5,NO,Junior,admin
+p-0415,a,drafting correspondence to client w/ questions on schedule of income needs to be answered.,0.5,YES,Junior,preparing documents
+p-0418,a,complaints handling,1,NO,Junior,admin
+p-0419,a,amending consent order further to email from other side.,0.1,YES,Senior,client time
+p-0421,a,reviewing and responding to email from new enquiry requesting to speak today,0.2,YES,Junior,client time
+p-0422,a,"re-dated letter, drafted email to send to client",0.1,YES,Junior,client time
+p-0423,a,reviewed updated d eighty one and sent follow up to client re:discrepancies,2.1,YES,Senior,client time
+p-0424,a,further review of order,0.3,YES,Junior,"analyse, review, research"
+p-0425,a,amend order to vacate hearing,0.1,YES,Junior,preparing documents
+p-0428,a,reviewed bundle index,1.2,YES,Partner,"analyse, review, research"
+p-0429,a,reviewed email from client re valuation report and responded,0.8,YES,Junior,"analyse, review, research"
+p-0430,a,email to client enclosing pleadings ahead of fda and advice on the same,0.5,YES,Junior,client time
+p-0431,a,communicate (with outside counsel) call and emails with clerk regarding tax discussion.,0.2,YES,Senior,Other comms
+p-0432,a,internal re counsel options.,0.2,YES,Junior,Other comms
+p-0433,a,finalise consent order and letter of advice,0.2,YES,Senior,preparing documents
+p-0434,a,detailed advice and update with documents for client,0.2,YES,Senior,client time
+p-0435,a,finalise letter to client,0.8,YES,Partner,preparing documents
+p-0437,a,communicate (with client) meeting long re progress advice and case,1.1,YES,Senior,client time
+p-0440,a,drafting then revising parenting plan after call with client,1.3,YES,Junior,preparing documents
+p-0441,a,email to client - update from other side,0.1,YES,Junior,client time
+p-0443,a,new client- picking up warm transfer,0.7,YES,Junior,client time
+p-0444,a,communicate (experts) email in from expert,0.1,YES,Senior,Other comms
+p-0445,a,draft/ revise retainer and onboarding documents.,0.4,NO,Senior,onboarding
+p-0446,a,meeting with client,1,YES,Senior,client time
+p-0447,a,"finalise and send letter of engagement, t&cs",0.5,NO,Senior,onboarding
+p-0448,a,emial in from client re application,0.2,YES,Partner,client time
+p-0450,a,review client response to supplemental questionnaire and schedule of deficiencies,0.3,YES,Senior,"analyse, review, research"
+p-0452,a,emails with client regarding 'errors' in letter,0.2,YES,Senior,client time
+p-0453,a,"review of email, noting further information required",0.3,YES,Junior,"analyse, review, research"
+p-0454,a,"email to client, 4x email to counsel and clerk",0.6,YES,Senior,client time
+p-0456,a,communicate (other party(s)/other outside lawyers) email out to other side with correspondence,0.1,YES,Junior,Other comms
+p-0457,a,all day external training,7,NO,Junior,admin
+p-0458,a,letter to other side in light of client's updated instructions,0.2,YES,Senior,preparing documents
+p-0459,a,tried to update time recording - unable to as system down again. raised ticket with it,0.6,NO,Junior,admin
+p-0462,a,review tax advice re french property disposal,0.2,YES,Partner,"analyse, review, research"
+p-0463,a,meeting with client,0.9,YES,Senior,client time
+p-0464,a,preparing a letter of engagement and risk assessment,0.7,NO,Junior,onboarding
+p-0465,a,"draft email with advice to client, and email to other side proposing directions to private financial dispute resolution",1,YES,Senior,client time
+p-0466,a,communicate (internally within legal team) - discussions on strategic and commercial considerations for client,0.2,YES,Partner,Other comms
+p-0467,a,travel booking for conference,1,NO,Partner,admin
+p-0468,a,"email out to the cient attaching letter, draft consent order and d eighty one",0.1,YES,Junior,client time
+p-0469,a,review email in from client requesting advice,0.1,YES,Senior,"analyse, review, research"
+p-0470,a,assisitng counsel re preparation of order/ revieiwng skeleton argument,1.5,YES,Partner,"analyse, review, research"
+p-0471,a,communicate (other external) - calls to forensic accounting companies,0.6,YES,Junior,Other comms
+p-0472,a,email to client,0.1,YES,Senior,client time
+p-0474,a,email from client.,0.1,YES,Senior,client time
+p-0475,a,draft/ revise - n260,0.3,YES,Senior,preparing documents
+p-0477,a,communicate (other party(s)/other outside lawyers) email in from conveyancer,0.1,YES,Senior,Other comms
+p-0478,a,consent order application,0.2,YES,Senior,preparing documents
+p-0479,a,billable travel time to birmingham for private financial dispute resolution -was 5 hours in total only charged 3,3,YES,Partner,client time
+p-0480,a,review cafcass report for first hearing dispute resolution appointment,0.3,YES,Senior,"analyse, review, research"
+p-0482,a,drafting itemised bill for client,0.2,NO,Junior,billing
+p-0483,a,"email to client proposing conference with counsel, providing availability and costs.",0.2,YES,Junior,client time
+p-0485,a,exchange of emails with client re journalist contact,0.1,YES,Partner,client time
+p-0486,a,draft form e from client,0.3,YES,Junior,preparing documents
+p-0487,a,letter of advice / hearing outcome letter to client,1.6,YES,Junior,preparing documents
+p-0488,a,preparing/ updating schedule of assets - cross checking form e,1.2,YES,Junior,preparing documents
+p-0489,a,communicate (other party(s)/other outside lawyers) email out to other side re bundle index,0.1,YES,Junior,Other comms
+p-0490,a,email to client with update from court re final order.,0.1,YES,Junior,client time
+p-0491,a,"exchange of email, email in and amending email to other side and sending",0.2,YES,Partner,client time
+p-0492,a,responding to internal queries,1.1,NO,Senior,admin
+p-0493,a,complaints handling re: letter sent to wrong address,0.6,NO,Junior,admin
+p-0494,a,response to client re order and next steps,0.2,YES,Senior,client time
+p-0495,a,calling client to ask availability for conference,0.1,YES,Junior,client time
+p-0496,a,"reviewing email in from client and email trail between parties, preparing letter to other side",0.5,YES,Junior,preparing documents
+p-0498,a,communicate (other party(s)/other outside lawyers) - email out to other side attaching letter with proposals,0.1,YES,Junior,Other comms
+p-0499,a,review pensions disclosure,0.1,YES,Junior,"analyse, review, research"
+p-0500,a,liaise with onboarding re letter of engagement and associated documents.,0.3,NO,Junior,onboarding
+p-0502,a,initial review of updated bundle index from other side,0.9,YES,Junior,"analyse, review, research"
+p-0503,a,system issues sorting,0.4,NO,Senior,admin
+p-0504,a,revise order in light of late filing of expert report,0.8,YES,Senior,"analyse, review, research"
+p-0505,a,"drafted letter to other side, em to client",1,YES,Senior,preparing documents
+p-0507,a,communicate (internally within legal team) - with accounts re paying invoice,0.4,YES,Senior,Other comms
+p-0508,a,considering file further to tel call with client and preparing a draft email to other side and an email to client.,0.6,YES,Senior,client time
+p-0509,a,"amended draft order, filing draft order with the court, email to clerks liaising to organise private financial dispute resolution, email to client",1.5,YES,Senior,client time
+p-0510,a,first draft of deed of seperation,2,YES,Junior,preparing documents
+p-0511,a,supervision: review and amend schedule of deficencies and docs,0.5,NO,Senior,onboarding
+p-0512,a,revise/amend letter of engagement and risk assessment,0.5,YES,Senior,onboarding
+p-0514,a,drafting n260 cost statement.,0.3,YES,Senior,preparing documents
+p-0515,a,review of amendments to order and emails with counsel re the draft order,0.3,YES,Senior,"analyse, review, research"
+p-0516,a,draft/ revise-letter of engagement and risk assessment,0.8,NO,Senior,onboarding
+p-0517,a,draft/ revise - amends on letter to other side,0.1,YES,Junior,preparing documents
+p-0518,a,communicate (with client) enclosing draft re costs,0.1,YES,Senior,client time
+p-0519,a,sending letter of engagement,0.1,NO,Junior,onboarding
+p-0520,a,attend on client for inital appointment,1.2,YES,Senior,client time
+p-0521,a,draft/ revise consent order,0.2,YES,Senior,preparing documents
+p-0522,a,draft/ revise - preparing letter of engagement and risk assessment,0.5,NO,Junior,onboarding
+p-0523,a,communicate (other party(s)/other outside lawyers) - from other side with draft order to vacate financial dispute resolution.,0.1,YES,Senior,Other comms
+p-0524,a,call with client,0.9,YES,Junior,client time
+p-0525,a,draft/ revise letter,0.2,YES,Junior,preparing documents
+p-0526,a,reviewing form e,0.6,YES,Senior,"analyse, review, research"
+p-0527,a,read and consider docs in from client including defence,0.5,YES,Senior,"analyse, review, research"
+p-0528,a,reviewed expert report,0.4,YES,Junior,"analyse, review, research"
+p-0529,a,e-mail to client regarding next steps,0.1,YES,Junior,client time
+p-0530,a,strategy call,1.4,NO,Senior,admin
+p-0531,a,email to client with draft email re holiday destination and passport details.,0.2,YES,Senior,client time
+p-0534,a,email out to the client attaching s7 addendum report,0.1,YES,Junior,client time
+p-0535,a,email to client,0.1,YES,Senior,client time
+p-0537,a,review correspondence,0.1,YES,Junior,"analyse, review, research"
+p-0539,a,letter of engagement and risk assessment,0.7,NO,Junior,onboarding
+p-0542,a,communicate (with outside counsel) - email from counsel.,0.1,YES,Senior,Other comms
+p-0544,a,initial call with client,1,YES,Senior,client time
+p-0546,a,email out to the clent re counsels brief fee deemed,0.1,YES,Junior,client time
+p-0547,a,review hard copy documents and scanning,0.3,NO,Junior,admin
+p-0548,a,amending letter of engagement,0.3,NO,Junior,onboarding
+p-0549,a,email to client - need instructions,0.1,YES,Junior,client time
+p-0550,a,exchange of emails,0.2,YES,Partner,client time
+p-0552,a,communicate (with client)- call out client,0.2,YES,Senior,client time
+p-0555,a,email from client and advising options of next steps.,0.4,YES,Junior,client time
+p-0557,a,review/analyse final order,0.1,YES,Senior,"analyse, review, research"
+p-0559,a,draft/ revise- amend letter of engagement and risk assessment,0.5,NO,Senior,onboarding
+p-0560,a,review email from client's husband,0.2,YES,Junior,"analyse, review, research"
+p-0561,a,"setting up file and reading notes, emailing client",0.5,YES,Senior,client time
+p-0562,a,calculating and updating figures in form h,0.6,YES,Junior,preparing documents
+p-0563,a,draft to counsel re amd to order,0.5,YES,Senior,preparing documents
+p-0565,a,reviewing draft heads of terms,0.3,YES,Partner,"analyse, review, research"
+p-0566,a,long call with client - advising new heairng date,0.5,YES,Partner,client time
+p-0567,a,draft/ revise open offer to other side,0.3,YES,Senior,preparing documents
+p-0568,a,"reviewed amended consent order from client with their amends - making my amends to paragraph 14, 15 , 20 and 21",0.7,YES,Senior,"analyse, review, research"
+p-0569,a,communicate (internally within legal team) re: office copies,0.1,YES,Senior,Other comms
+p-0570,a,email in with paperwork from social services,0.1,YES,Partner,client time
+p-0571,a,communicate (other party(s)/other outside lawyers) teams meeting with lawyer in paris re french property matter,0.7,YES,Partner,Other comms
+p-0573,a,review/analyse,0.1,YES,Junior,"analyse, review, research"
+p-0574,a,review docs from potential new client and reply to email.,0.6,YES,Senior,client time
+p-0575,a,new enquiry,1.1,YES,Junior,client time
+p-0577,a,email to client with advice re social services,0.1,YES,Senior,client time
+p-0579,a,preparing offer,2,YES,Partner,preparing documents
+p-0580,a,review/analyse revised statement,0.4,YES,Senior,"analyse, review, research"
+p-0581,a,communicate (with client) re cafcass report and date,0.1,YES,Senior,client time
+p-0583,a,reviewed email from conveyancer re completion date,0.6,YES,Senior,"analyse, review, research"
+p-0584,a,"detailed email to client disclosure, next steps and costs",1,YES,Senior,client time
+p-0585,a,"drafting letter of engagement, risk assessment and wills letter.",0.9,NO,Junior,onboarding
+p-0588,a,email out to the client attaching draft letter for approval,0.1,YES,Junior,client time
+p-0589,a,revising letter from client,0.3,YES,Senior,client time
+p-0591,a,email to client - we should discuss in conference.,0.3,YES,Senior,client time
+p-0593,a,"email from client - ""good afternoon, the proposal is fine, happy for you to send that""",0.1,YES,Senior,client time
+p-0594,a,drafting letter of engagement and risk assessment.,0.8,NO,Junior,onboarding
+p-0595,a,"review of completed form e and encs, updating and noting further documents required.",0.5,YES,Senior,"analyse, review, research"
+p-0597,a,considering 2 x email updates from client and responding,0.2,YES,Junior,client time
+p-0598,a,reviewing client comments on form e and further updating file note - ahead of drafting questionnaire,0.2,YES,Junior,preparing documents
+p-0601,a,exchange of emails with client,0.2,YES,Senior,client time
+p-0602,a,read and consider s.7 report and court order prior to meeting with client,0.5,YES,Senior,"analyse, review, research"
+p-0603,a,email out to client with scanned copy of signed deed.,0.1,YES,Junior,client time
+p-0604,a,communicate (with client) re barristers options,0.1,YES,Senior,client time
+p-0605,a,communicate (other party(s)/other outside lawyers) email in from other side - with letter re car and bond.,0.1,YES,Partner,Other comms
+p-0606,a,email from client - re general practitioner surgery records for s7,0.4,YES,Senior,client time
+p-0609,a,tel call with client including note,0.5,YES,Junior,client time
+p-0612,a,reviewed valuation report,0.6,YES,Junior,"analyse, review, research"
+p-0613,a,email exchnage and review of letter re new children matter,0.4,YES,Junior,"analyse, review, research"
+p-0614,a,"call with client regarding proposal, property particualrs, proposals for settlement and mortgage capacity report.",0.9,YES,Senior,client time
+p-0617,a,communicate (other party(s)/other outside lawyers) email out with final order,0.1,YES,Senior,Other comms
+p-0618,a,communicate (other party(s)/other outside lawyers) email out to court,0.1,YES,Senior,Other comms
+p-0619,a,amending letter of engagement,0.5,YES,Senior,onboarding
+p-0621,a,communicate (with outside counsel) re private financial dispute resolution brief,0.2,YES,Senior,Other comms
+p-0622,a,case law reviewed for ongoing case / judgment etc.,0.4,YES,Senior,"analyse, review, research"
+p-0623,a,amending d eighty one,0.4,YES,Senior,preparing documents
+p-0625,a,travel to court,0.4,NO,Junior,admin
+p-0626,a,supervision: amend email out to client re options and invoice payment,0.1,NO,Senior,billing
+p-0627,a,supervision: review and amend letter of engagement and risk assessment,0.5,NO,Senior,onboarding
+p-0628,a,reviewed client's email re form e and flagged missing details,1.2,YES,Junior,client time
+p-0629,a,amends to letter of engagement and subsequent review,0.7,NO,Senior,onboarding
+p-0630,a,email out to the client with update attaching email sent to other side,0.3,YES,Junior,client time
+p-0631,a,communicate (other external) email out to court with dates to avoid,0.2,YES,Senior,Other comms
+p-0634,a,review of schedule of assets and questionnaire and amendments,0.3,YES,Senior,"analyse, review, research"
+p-0636,a,draft detailed letter to other side re: their application,1.2,YES,Senior,preparing documents
+p-0639,a,communicate (with outside counsel) email out to clerks re: private financial dispute resolution date,0.1,YES,Senior,Other comms
+p-0640,a,strategic discussion regarding offer and next steps,2.4,YES,Senior,preparing documents
+p-0641,a,london to manchester 3 hrs,3,NO,Junior,admin
+p-0643,a,other detailed letter of engagement and risk assessment,0.8,NO,Junior,onboarding
+p-0644,a,draft/ revise d eighty one.,0.8,YES,Senior,preparing documents
+p-0645,a,draft letter re: proceeds of sale,0.1,YES,Senior,preparing documents
+p-0647,a,email out to client updating,0.2,YES,Senior,client time
+p-0649,a,draft notice of severance of joint tenancy,0.2,YES,Junior,preparing documents
+p-0650,a,email to client proposing to meet,0.1,YES,Partner,client time
+p-0651,a,review property deeds,0.5,YES,Junior,"analyse, review, research"
+p-0652,a,"communicate (other party(s)/other outside lawyers) email out to other side with amended order, pressing urgency",0.1,YES,Junior,Other comms
+p-0653,a,"communicate (internally within legal team) - teams call to progress matter (including case summary, schedule of assets and bundle index, form g and fm5 and explaining/advising client)",0.6,YES,Senior,Other comms
+p-0655,a,supervision of case progress,1.5,NO,Partner,admin
+p-0656,a,review hearing note,0.3,YES,Senior,"analyse, review, research"
+p-0658,a,"email to client, offer will not be before beginning of june etc.",0.1,YES,Junior,client time
+p-0660,a,draft/ revise letter to la,0.1,YES,Senior,preparing documents
+p-0661,a,draft letter of engagement,1.2,NO,Junior,onboarding
+p-0662,a,draft letter to other side - notification of divorce application and request for interim maintenance.,1,YES,Junior,preparing documents
+p-0663,a,email to client with letter,0.1,YES,Partner,client time
+p-0664,a,communicate (internally within legal team) discussing bundle task. reviewing form g together and identifying outstanding documents / details that needed amending or updating.,0.2,YES,Junior,Other comms
+p-0665,a,draft letter of intent (loi) to single joint expert (sje) re business valution,0.5,YES,Junior,preparing documents
+p-0669,a,emails with client; further emails with client.,0.5,YES,Senior,client time
+p-0670,a,drafted letter to other side,0.4,YES,Senior,preparing documents
+p-0673,a,drafting hr1 form and completing online application process. submitting application.,1.8,YES,Junior,preparing documents
+p-0674,a,draft/ revise letter to pension fund,0.3,YES,Junior,preparing documents
+p-0676,a,communicate (internally within legal team) re 18 x properties in case,0.2,YES,Junior,Other comms
+p-0677,a,draft letter,0.1,YES,Senior,preparing documents
+p-0678,a,dictate note from call with client,0.2,YES,Junior,client time
+p-0679,a,communicate (with client) - see file note,0.5,YES,Senior,client time
+p-0680,a,email in from the client attaching draft letter vto other side for approval,0.1,YES,Junior,client time
+p-0681,a,considering file further to email from client and preparing a response; email from client.,0.2,YES,Senior,client time
+p-0683,a,revise letter other side,0.6,YES,Junior,preparing documents
+p-0684,a,"communicate (with outside counsel) - discussion with regarding next steps, instructions",0.4,YES,Senior,Other comms
+p-0686,a,drafting file note from conference with counsel.,0.5,YES,Junior,preparing documents
+p-0687,a,amend letter and schedule of deficiencies,0.4,YES,Senior,preparing documents
+p-0688,a,initial review of position,0.7,YES,Partner,"analyse, review, research"
+p-0689,a,communicate (with client) en,0.1,YES,Partner,client time
+p-0690,a,review emails x3 from client re d eighty one. consider assets schedule re car value. email to client and note response.,0.8,YES,Senior,client time
+p-0691,a,amend d eighty one and email out to client regarding undertaking revocation and potential risks.,0.5,YES,Junior,client time
+p-0692,a,letter to court / other parties,0.2,YES,Senior,preparing documents
+p-0693,a,communicate (experts) email out from expert,0.1,YES,Senior,Other comms
+p-0694,a,email to you sending signed pre-nup,0.2,YES,Partner,client time
+p-0698,a,communicate (other party(s)/other outside lawyers) email out other side,0.1,YES,Junior,Other comms
+p-0699,a,email out to the client attaching w's form e and enclosures,0.1,YES,Junior,client time
+p-0700,a,delaing with case summary and schedule of assets documents and bundle including reading various emails and documens sent yesterday by opponent,1.5,YES,Partner,"analyse, review, research"
+p-0702,a,team strategy review,2.5,NO,Senior,admin
+p-0703,a,amending letter of engagement further,0.4,NO,Junior,onboarding
+p-0704,a,reviewed full court bundle and made notes for file on bundle,0.5,YES,Senior,"analyse, review, research"
+p-0705,a,billing,0.1,YES,Junior,preparing documents
+p-0706,a,communicate (other external) - call re request for conveyancing file.,0.1,YES,Junior,Other comms
+p-0708,a,teams call with client for initial appointment.,1,YES,Partner,client time
+p-0711,a,tci from client,0.3,YES,Junior,client time
+p-0713,a,review various emails from client and draft lengthy response,0.5,YES,Senior,"analyse, review, research"
+p-0714,a,initisl review of h form e,0.7,YES,Junior,"analyse, review, research"
+p-0715,a,review and analysis - monthly update,0.1,YES,Senior,"analyse, review, research"
+p-0716,a,travelling to and from court,1,NO,Senior,admin
+p-0718,a,draft/ revise table of third party disclosure recieved.,0.2,YES,Senior,preparing documents
+p-0719,a,communicate (with client) re update and barristers,0.1,YES,Senior,client time
+p-0721,a,communicate (with client): call,1.2,YES,Junior,client time
+p-0722,a,draft letter of instruction to pension expert,0.9,YES,Senior,preparing documents
+p-0723,a,handover,1,NO,Senior,admin
+p-0725,a,share drive update,0.1,NO,Senior,admin
+p-0726,a,draft/ revise - email to la,0.2,YES,Senior,preparing documents
+p-0727,a,communicate (other external) enquiry with mortgage cap expert,0.1,YES,Junior,Other comms
+p-0728,a,communicate (with client) email out to client with thoughts on way forward,0.1,YES,Partner,client time
+p-0730,a,internal calls,1.3,NO,Senior,admin
+p-0732,a,"finalising letter of engagement (dating, removing highlighting, accepting track changes and converting to pdf).",0.2,NO,Junior,onboarding
+p-0733,a,lengthy email out to the client re agreed directions and child maintenance issues and attaching letter and docs from other side,0.5,YES,Junior,client time
+p-0734,a,communicate (other external) counsel clerk with brief,0.1,YES,Senior,Other comms
+p-0736,a,email to you re: notary feedback,0.1,YES,Partner,client time
+p-0737,a,communicate (other external) - receiving and reviewing email re client's conveyancing file.,0.1,YES,Junior,Other comms
+p-0739,a,internal queries,0.8,NO,Junior,admin
+p-0740,a,draft/ revise amending d eighty one produced by other side,0.3,YES,Senior,preparing documents
+p-0741,a,draft/ revise - preparing letter of engagement and risk assessment,0.9,NO,Junior,onboarding
+p-0742,a,email out client re update and next steps,0.3,YES,Senior,client time
+p-0743,a,reviewing finalised letter and making sure all dates are correct before sending for final approval,0.4,YES,Junior,"analyse, review, research"
+p-0744,a,reviewing tob and letter of engagement and amending,0.3,NO,Senior,onboarding
+p-0745,a,"supervision: revise and amend brief, review encs to brief",1,NO,Senior,preparing documents
+p-0747,a,drafting form ahead of financial dispute resolution.,0.1,YES,Junior,preparing documents
+p-0748,a,further updating order - provisions for interim living arrangements,0.4,YES,Junior,preparing documents
+p-0749,a,email out to client with detailed costs estimate,0.4,YES,Junior,client time
+p-0751,a,email with client re id checks. need to certify before work can begin,0.1,NO,Senior,onboarding
+p-0752,a,email to client acknowledging receipt of house valuation report and response to property particulars.,0.1,YES,Junior,client time
+p-0753,a,client call re file opening/letter of engagement/risk assessment,0.3,NO,Senior,onboarding
+p-0754,a,email to client sending draft letter for discussion on phone.,0.1,YES,Senior,client time
+p-0756,a,draft/ revise file note following meeting with client to discuss draft orders.,0.1,YES,Senior,preparing documents
+p-0757,a,communicate (with outside counsel) email to counsel regarding terms of final order and payment of mortgage/bills,0.6,YES,Senior,Other comms
+p-0759,a,"long email to you, summarising report and advice re next steps",0.4,YES,Partner,client time
+p-0760,a,review and analysis of section 7 report,0.6,YES,Senior,"analyse, review, research"
+p-0761,a,client call advice plan next steps,0.4,YES,Senior,client time
+p-0762,a,couldn't update case file - it issues…,0.7,NO,Junior,admin
+p-0764,a,revising order,0.4,YES,Senior,"analyse, review, research"
+p-0766,a,drafted proposal following call,0.2,YES,Senior,preparing documents
+p-0767,a,amending form e draft with updated information,0.4,YES,Senior,preparing documents
+p-0768,a,statement draft,3,YES,Senior,preparing documents
+p-0769,a,tel call,0.9,YES,Partner,client time
+p-0771,a,ms teams with client to discuss update and next steps,0.3,YES,Senior,client time
+p-0772,a,email out to the client attaching email from other side,0.1,YES,Junior,client time
+p-0773,a,supervision: amend costs letter,0.2,NO,Senior,admin
+p-0774,a,review c1a and c7 filed and amending draft to client,0.4,YES,Senior,"analyse, review, research"
+p-0775,a,revise/ amend letters to client and other side,0.2,YES,Junior,preparing documents
+p-0777,a,"consider, review and update to the client re costs and disbursements to date and anticpated future costs and disbursements to financial dispute resolution",0.7,YES,Junior,client time
+p-0779,a,email out to the client attaching form h and form g,0.1,YES,Junior,client time
+p-0780,a,email in from client,0.2,YES,Senior,client time
+p-0781,a,review position re barristers for private financial dispute resolution,0.5,YES,Partner,"analyse, review, research"
+p-0782,a,inital read and review of file of papers in from client,0.6,YES,Senior,"analyse, review, research"
+p-0784,a,updating docs re certificate of suitbility,0.2,YES,Junior,preparing documents
+p-0785,a,team meeting with client to go through h form e and go through queries to prepare questionnaire - inc discussion re next steps to progress case,1.2,YES,Junior,client time
+p-0787,a,draft letter of engagement / risk assessment,1,NO,Junior,onboarding
+p-0788,a,email out to the client attaching court order and advising re costs order,0.1,YES,Junior,client time
+p-0789,a,call with client and counsel.,0.6,YES,Senior,client time
+p-0790,a,call out to the client folloiwng con with counsel and discussing lit loan and forensic accountant,0.2,YES,Junior,client time
+p-0791,a,communicate (other party(s)/other outside lawyers) - from other side re progressing case.,0.1,YES,Senior,Other comms
+p-0792,a,review and analysis c1a,0.3,YES,Partner,"analyse, review, research"
+p-0793,a,tel call to new client,0.5,YES,Partner,client time
+p-0796,a,draft longer letter to other side's solicitors,0.2,YES,Senior,preparing documents
+p-0797,a,considering file further to email and docs received from client; preparing an email to client in response.,1.2,YES,Senior,client time
+p-0798,a,drafting email to send to cl. sent to partner for approval before sending.,0.1,YES,Junior,preparing documents
+p-0800,a,review directions from court- noting on paper initial directions,0.1,YES,Senior,"analyse, review, research"
+p-0802,a,drafting letter of advice to the client,0.9,YES,Junior,preparing documents
+p-0803,a,email out to the client,0.1,YES,Junior,client time
+p-0805,a,review/analyse - review of order,0.2,YES,Partner,"analyse, review, research"
+p-0806,a,reviewing transcripts,2.5,YES,Senior,"analyse, review, research"
+p-0807,a,review further emails with other side; signing letter of instruction.,0.1,YES,Senior,"analyse, review, research"
+p-0808,a,email from client w. address and update on mediation,0.1,YES,Senior,client time
+p-0809,a,review current position and outstanding infomration,0.1,YES,Senior,"analyse, review, research"
+p-0810,a,review of papers from court.,0.3,YES,Junior,"analyse, review, research"
+p-0811,a,email to client re proposal draft,0.4,YES,Senior,client time
+p-0812,a,call from cleint and then email to cleint with loi pdf as requested,0.3,YES,Junior,client time
+p-0813,a,communicate (other party(s)/other outside lawyers) request for papers to old solicitor,0.1,YES,Senior,Other comms
+p-0814,a,communicate (with client) check in / 2 emails with client re judgment and timelines,0.2,YES,Senior,client time
+p-0815,a,call back to client further to receiving text message asking to call.,0.3,YES,Junior,client time
+p-0816,a,review and approve amended proposals,0.1,YES,Partner,"analyse, review, research"
+p-0817,a,revise updated letter to client,0.1,YES,Senior,preparing documents
+p-0820,a,"communicate (other external) checking signed documents, signing d eighty one and submitting to court",0.2,YES,Junior,Other comms
+p-0821,a,communicate (other external) - email exchnage with the court re signed d11 applicatiosn and court fees,0.2,YES,Junior,Other comms
+p-0822,a,draft/ revise letter other side,0.9,YES,Junior,preparing documents
+p-0823,a,reviewing mortgage capacity report,0.1,YES,Junior,"analyse, review, research"
+p-0824,a,drafting letter of engagement and email to client,0.7,NO,Partner,onboarding
+p-0825,a,communicate (internally within legal team) discuss position and approach,0.2,YES,Junior,Other comms
+p-0826,a,email in from client with amends to d eighty one form,0.1,YES,Junior,client time
+p-0827,a,finalised invoice,0.3,NO,Junior,billing
+p-0828,a,communicate (other party(s)/other outside lawyers) email out to other side serving questionnaire,0.1,YES,Senior,Other comms
+p-0829,a,supervison: review/finalise brief,0.5,NO,Senior,admin
+p-0830,a,revise post-nup per client’s latest notes,0.5,YES,Junior,preparing documents
+p-0831,a,emails in and out with client regarding child maintenance and pension share and delay,0.3,YES,Senior,client time
+p-0832,a,email to client with updated schedule and general follow-up to con,0.1,YES,Partner,client time
+p-0834,a,proposal draft,0.3,YES,Senior,preparing documents
+p-0835,a,review and update post-nuptial contract,0.7,YES,Junior,"analyse, review, research"
+p-0836,a,email to client w/ letter and update,0.1,YES,Senior,client time
+p-0837,a,communicate (other external) email summarising the stage we are at in divorce/finances,0.6,YES,Junior,Other comms
+p-0839,a,communicate (with client) client call re letters advice adn progress,0.2,YES,Senior,client time
+p-0840,a,tel call to client,0.6,YES,Partner,client time
+p-0841,a,reviewed statement,0.4,YES,Senior,"analyse, review, research"
+p-0845,a,exchange of emails and amending draft to other side,0.3,YES,Partner,preparing documents
+p-0846,a,further email exchange with client,0.1,YES,Senior,client time
+p-0847,a,attempt to call back new enquiry to confirm details for appointment. no answer. updating sharepoint form.,0.1,YES,Junior,client time
+p-0848,a,communicate (with client),2,YES,Senior,client time
+p-0850,a,review client email in and calculation on spreadsheet,0.2,YES,Partner,"analyse, review, research"
+p-0851,a,communicate with new client - passed to colleague,0.4,YES,Partner,client time
+p-0852,a,draft/ revise letter of engagement,0.8,NO,Senior,onboarding
+p-0853,a,communicate (other external) filing nursery disclosure with the court.,0.1,YES,Senior,Other comms
+p-0854,a,"preparing form h, advice to client, amending bundle in accordance with emais with other side, finalising index. filing with court",4.5,YES,Junior,preparing documents
+p-0855,a,email to client attaching letter of engagement and other onboarding documents.,0.2,NO,Junior,onboarding
+p-0856,a,email out with final order for safe keeping.,0.1,YES,Partner,client time
+p-0857,a,email to client enclosing the loi to pension expect and explaining,0.3,YES,Senior,client time
+p-0858,a,email advice to client,0.2,YES,Senior,client time
+p-0859,a,internal call with tax team re tax implications and considerations of transfer now.,0.3,YES,Junior,client time
+p-0860,a,communicate (with client) client call and advice plus note on file,0.2,YES,Senior,client time
+p-0862,a,review/analyse referral,0.1,YES,Junior,"analyse, review, research"
+p-0863,a,communicate (other party(s)/other outside lawyers) email out to other side with signed docs,0.1,YES,Junior,Other comms
+p-0864,a,draft letter to other side,0.6,YES,Junior,preparing documents
+p-0866,a,"review of amended docs, client's comments, and amending draft emails",0.3,YES,Partner,"analyse, review, research"
+p-0867,a,email from client regarding social worker asking for further details.,0.2,YES,Senior,client time
+p-0868,a,review and analysis,0.1,YES,Partner,"analyse, review, research"
+p-0869,a,email out to the client providing password to access w form e,0.1,YES,Junior,client time
+p-0870,a,"draft/ revise email out to other side including advice to client, and response to application and issue by the court",0.5,YES,Senior,client time
+p-0872,a,"prepared final bill, sent to client",0.3,NO,Senior,billing
+p-0874,a,"review client's 4 x emails, consider attachements and respond",0.4,YES,Junior,"analyse, review, research"
+p-0875,a,first draft of the schedule of assets,1.2,YES,Junior,preparing documents
+p-0877,a,call from client - updating schedule of assets over phone and advising client on queries ahead of mediaiton session 2.,1,YES,Junior,client time
+p-0878,a,discussing new cohab referral with new referral,0.5,YES,Senior,client time
+p-0880,a,meeting with client,0.7,YES,Junior,client time
+p-0881,a,exchange of emails with client,0.2,YES,Partner,client time
+p-0884,a,review of mortgage capacity reports,0.2,YES,Partner,"analyse, review, research"
+p-0885,a,updating / finalising detailed letter of advice to client,1,YES,Junior,preparing documents
+p-0886,a,email in referral and responding,0.2,YES,Junior,client time
+p-0887,a,drafting form h in preparation for fda hearing,1.7,YES,Junior,preparing documents
+p-0888,a,"communicate (other party(s)/other outside lawyers): requesting net equity in new property, to update d eighty one",0.1,YES,Junior,Other comms
+p-0889,a,organizing team training session,0.8,NO,Partner,admin
+p-0890,a,tel call with client regarding guardian analysis,0.5,YES,Partner,client time
+p-0892,a,hearing,1,YES,Partner,client time
+p-0895,a,researching legal precedent,1.3,YES,Senior,"analyse, review, research"
+p-0897,a,draft letter of engagement and 2 x risk assessment's. [no charge],0.6,NO,Senior,onboarding
+p-0899,a,considering file and preparing an email to client.,0.2,YES,Senior,client time
+p-0900,a,"review of client's various emails and call, review of conveyancer email",1.4,YES,Partner,"analyse, review, research"
+p-0902,a,draft/ revise letter of engagement,0.6,NO,Junior,onboarding
+p-0903,a,"several emails in and out with client regarding draft order, second property, legal fees, mortgage arrears and child maintenance.",0.1,YES,Senior,client time
+p-0904,a,initial meeting with new client,1,YES,Senior,client time
+p-0905,a,supervision,0.2,NO,Senior,billing
+p-0906,a,draft/ revise order,0.2,YES,Senior,preparing documents
+p-0908,a,exchange of emails with client re call and update from social services.,0.2,YES,Senior,client time
+p-0912,a,email to client with schedule,0.1,YES,Senior,client time
+p-0913,a,finalise letters and email out to client for approval,0.3,YES,Senior,client time
+p-0914,a,review of draft order sent by other side and minor amends.,0.3,YES,Junior,"analyse, review, research"
+p-0915,a,communicate (other external) email out official solicitor,0.1,YES,Junior,Other comms
+p-0916,a,communicate (with outside counsel) re dates for next hearing,0.1,YES,Senior,Other comms
+p-0917,a,communicate (with client) meeting settled next week several emails,0.1,YES,Senior,client time
+p-0918,a,email from other side and email to you,0.2,YES,Partner,client time
+p-0919,a,email out to the client re follow up from con and next steps prior to fda,0.4,YES,Junior,client time
+p-0920,a,finalising the letter of engagement.,1,NO,Junior,onboarding
+p-0921,a,reviewing client's draft statement,0.1,YES,Junior,"analyse, review, research"
+p-0923,a,including prep for call and then client call on next steps and advice / order,0.5,YES,Senior,client time
+p-0925,a,email to client with agenda and schedule (ahead of con),0.1,YES,Partner,client time
+p-0929,a,reviewed billing entries for before closing case on system,0.3,NO,Senior,billing
+p-0930,a,reviewed court order and updated client,0.9,YES,Junior,"analyse, review, research"
+p-0932,a,external training,3.5,NO,Junior,admin
+p-0933,a,email to other side.,0.1,YES,Senior,client time
+p-0934,a,team meeting to discuss case updates,1,NO,Senior,admin
+p-0935,a,follow up / debrief post meeting to discuss next steps/ costs etc.,0.2,YES,Junior,client time
+p-0936,a,drafting and sending email to cl with update regarding re-arranged call this weekend,0.1,YES,Junior,client time
+p-0937,a,free call with referral,0.5,YES,Senior,client time
+p-0939,a,draft/ revise- supervision: revise/amend letter of engagement and risk assessment,0.5,NO,Senior,onboarding
+p-0942,a,communicate (internally within legal team) delegation re file,0.1,YES,Senior,Other comms
+p-0943,a,email from client and email in response,0.1,YES,Partner,client time
+p-0944,a,draft order,1.6,YES,Senior,preparing documents
+p-0945,a,draft/ revise consent order,0.9,YES,Senior,preparing documents
+p-0946,a,analysing financial disclosure,1.3,YES,Senior,preparing documents
+p-0947,a,drafting case summary in preparation for fda hearing,1.3,YES,Junior,preparing documents
+p-0948,a,email to client acknowleging receipt of updating disclosure and discussing payment of counsel's fees.,0.1,YES,Junior,client time
+p-0949,a,revising pre-nup agreement per clients email,0.6,YES,Junior,preparing documents
+p-0951,a,email in from the client attaching signed notice of acting in person,0.1,YES,Junior,client time
+p-0952,a,reviewed expert report and noted valuation concerns,0.5,YES,Junior,"analyse, review, research"
+p-0954,a,plan and prepare for call,0.2,YES,Partner,client time
+p-0955,a,file review,0.7,YES,Junior,"analyse, review, research"
+p-0956,a,"email out to the client attaching email received from other side with letter, form h, form g, case summary and schedule of assets",0.1,YES,Junior,client time
+p-0957,a,supervision: review and amend index to bundle,0.5,NO,Senior,preparing documents
+p-0959,a,weekly department catch-up,1,NO,Senior,admin
+p-0960,a,email out to other side attaching letter,0.1,YES,Junior,client time
+p-0962,a,meeting with client - see file note,1.7,YES,Senior,client time
+p-0964,a,email from client,0.1,YES,Senior,client time
+p-0966,a,post-meeting call with supervisor to discuss letter of engagement.,0.1,NO,Junior,onboarding
+p-0967,a,liaise with support legal team re letter of engagement/risk assessment,0.4,NO,Junior,onboarding
+p-0968,a,communicate with counsel,0.2,YES,Junior,Other comms
+p-0969,a,review/analyse order,0.1,YES,Senior,"analyse, review, research"
+p-0971,a,draft/ revise- letter of engagement and risk assessment,1,NO,Senior,onboarding
+p-0974,a,communicate (experts): email exchange with foreign valuer,0.2,YES,Junior,Other comms
+p-0975,a,"finalise order and d eighty one, respond to client inc. draft to other side.",0.3,YES,Junior,preparing documents
+p-0976,a,analysis of court order,0.3,YES,Senior,"analyse, review, research"
+p-0978,a,draft / revise letter of engagement and risk assessment,0.6,NO,Senior,onboarding
+p-0980,a,communicate (with outside counsel) re draft letters and advice / moving case forward,0.1,YES,Senior,Other comms
+p-0982,a,considering position and options and prepare email to client setting out position and options,0.9,YES,Junior,client time
+p-0983,a,internal regular calls,1.2,NO,Senior,admin
+p-0984,a,communicate (other party(s)/other outside lawyers) email in from other side with mortgage cap report,0.1,YES,Junior,Other comms
+p-0985,a,email to client with our letter of engagement and supporting documents.,0.2,NO,Junior,onboarding
+p-0986,a,final review of billing documents before sending to client as part of supervision,0.4,NO,Senior,billing
+p-0987,a,supervise letter of engagement,0.2,NO,Senior,onboarding
+p-0989,a,updating and finalising questionnaire following call with client,0.4,YES,Junior,preparing documents
+p-0990,a,communicate (with client)- emails with client re letter of engagement,0.2,NO,Senior,onboarding
+p-0992,a,updating letters to other side following client instructions.,0.2,YES,Junior,preparing documents
+p-0993,a,exchange of emails w/ client re terms of order,0.2,YES,Senior,client time
+p-0994,a,"letter advice added , needed to add in some bits post dictation - then sent to client",0.1,YES,Senior,client time
+p-0996,a,"reviewing schedule of assets, particulars and",0.5,YES,Senior,"analyse, review, research"
+p-0997,a,draft/ revise- letter to client,0.2,YES,Partner,preparing documents
+p-0998,a,communicate (other party(s)/other outside lawyers) email out to other side with letter,0.1,YES,Junior,Other comms
+p-0999,a,communicate (other party(s)/other outside lawyers) re school reports and la fee etc. several emails,0.1,YES,Senior,Other comms
+p-1000,a,email in from the client- approval of questionnaire,0.1,YES,Junior,client time
+p-1002,a,review position,0.2,YES,Junior,"analyse, review, research"
+p-1004,a,call out to the client to discuss h form e,0.4,YES,Junior,client time
+p-1005,a,call with the client prior to con,0.6,YES,Junior,client time
+p-1006,a,draft letter of engagement and associated documents.,0.9,NO,Junior,onboarding
+p-1007,a,emails with potential new client,0.3,YES,Senior,client time
+p-1008,a,email to client chasing response,0.1,YES,Senior,client time
+p-1012,a,communicate (internally within legal team) call other department re potential referral,0.6,YES,Junior,Other comms
+p-1013,a,arranging initial appointment further to email received from new enquiry.,0.2,YES,Junior,client time
+p-1014,a,"email from client with further queries regarding questionnaire, considering strategy, detailed response to client.",1,YES,Senior,client time
+p-1015,a,preparing materials for internal training,0.7,NO,Senior,admin
+p-1016,a,supervision: review and amend advice to client and draft,0.4,NO,Senior,onboarding
+p-1018,a,email to client with letter of engagement and payment details,0.1,NO,Junior,onboarding
+p-1019,a,communicate (with client) - sharepoint call -taking initial call (40 mins).,1.1,YES,Junior,client time
+p-1020,a,email exchange with client - revieiwng comments on questionnaire.,0.3,YES,Junior,client time
+p-1021,a,long call with client and file note and email to police,1,YES,Partner,client time
+p-1022,a,email to client checking in,0.1,YES,Senior,client time
+p-1023,a,review and analysis c7 form,0.1,YES,Senior,"analyse, review, research"
+p-1024,a,email exchange with client,0.3,YES,Junior,client time
+p-1025,a,communicate (with outside counsel) update and also court dates and planing for hearings,0.1,YES,Senior,Other comms
+p-1026,a,new client call,1.5,YES,Junior,client time
+p-1027,a,email from client and email in response,0.1,YES,Partner,client time
+p-1030,a,emails with client re how to proceed,0.3,YES,Senior,client time
+p-1036,a,communicate (with client) re foreign mortgage.,0.1,YES,Senior,client time
+p-1037,a,email client,0.1,YES,Junior,client time
+p-1039,a,review of barrister's amendments to the order,0.3,YES,Partner,"analyse, review, research"
+p-1040,a,preparing holiday notes.,1,YES,Senior,preparing documents
+p-1043,a,1 email in w client,0.1,YES,Partner,client time
+p-1045,a,"email to client, responding to update re mortgage and providing case updates re next steps",0.4,YES,Junior,client time
+p-1046,a,email to client advising on approved order,0.3,YES,Junior,client time
+p-1048,a,post first hearing dispute resolution appointment meeting with client - advice / order and next steps,0.5,YES,Senior,client time
+p-1049,a,review amended proposals,0.1,YES,Partner,"analyse, review, research"
+p-1052,a,reviewing grounds of appeal ; email to client and reviewed properly x2,0.4,YES,Senior,"analyse, review, research"
+p-1053,a,"call re fees and next steps advice , note for file too of call",0.3,YES,Senior,client time
+p-1054,a,email of advice to client re updates,0.4,YES,Junior,client time
+p-1055,a,long letter as well as proof / revise and update the loi for actuary report,1.2,YES,Senior,preparing documents
+p-1056,a,full review of file to date prior to taking over from colleague,3.3,NO,Senior,admin
+p-1057,a,email from client with her passport details,0.1,YES,Senior,client time
+p-1058,a,file review,1.2,YES,Senior,"analyse, review, research"
+p-1059,a,review hearing notices for ptr and fh,0.1,YES,Partner,"analyse, review, research"
+p-1060,a,review shadow accountant report and conclusions,0.3,YES,Partner,"analyse, review, research"
+p-1061,a,drafting detailed file note from initial meeting (11 pages).,0.8,YES,Junior,preparing documents
+p-1062,a,reviewing file and further docs disclosed by parties with a view to advising re financial settlement.,1.3,YES,Senior,client time
+p-1064,a,email exchange w/ client re call,0.2,YES,Senior,client time
+p-1066,a,communicate (other party(s)/other outside lawyers) email in from other side re valuation,0.1,YES,Junior,Other comms
+p-1067,a,email out to client with our letter of engagement and supporting documents.,0.2,NO,Junior,onboarding
+p-1068,a,call with client,0.5,YES,Senior,client time
+p-1069,a,preparing documents for private financial dispute resolution,1.2,YES,Senior,preparing documents
+p-1071,a,preparing letter of engagement and risk assessment,1,NO,Junior,onboarding
+p-1072,a,communicate (with client) email out to client with advice,0.2,YES,Senior,client time
+p-1073,a,draft/ revise- letter to other side,0.6,YES,Senior,preparing documents
+p-1074,a,tel call with client,0.7,YES,Junior,client time
+p-1075,a,communicate (with client) re cafcass report and costing,0.1,YES,Senior,client time
+p-1076,a,review/analyse - considering section 7 addendum report,0.9,YES,Senior,"analyse, review, research"
+p-1078,a,internal meetings,0.5,NO,Junior,admin
+p-1079,a,"review complaint docs, various docs in client file, prep of response - 2 hrs",2,NO,Partner,admin
+p-1082,a,message exchnage with client,0.2,YES,Junior,client time
+p-1083,a,drafted final bill after manually reviewing all time records,0.5,NO,Junior,billing
+p-1084,a,draft open ltr re valuation. amd and send,0.2,YES,Senior,preparing documents
+p-1085,a,communicate (with client) exchange of emails with client,0.1,YES,Junior,client time
+p-1086,a,initial draft of final hearing statement,2,YES,Junior,preparing documents
+p-1087,a,email to client updating that letter of engagement will be sent tomorrow.,0.1,NO,Junior,onboarding
+p-1089,a,analysing position,0.6,YES,Partner,"analyse, review, research"
+p-1091,a,communicate (other party(s)/other outside lawyers) regarding preliminary documents and bundle.,0.1,YES,Senior,Other comms
+p-1093,a,email to client and updating form e,0.3,YES,Senior,client time
+p-1095,a,non-billable time,0.2,YES,Senior,"analyse, review, research"
+p-1096,a,communicate (other party(s)/other outside lawyers) re school report and progress / support,0.1,YES,Senior,Other comms
+p-1097,a,review n otice of hearung listing fh and email to client,0.1,YES,Senior,client time
+p-1099,a,reviewing amended mortgage cap report,0.2,YES,Junior,"analyse, review, research"
+p-1100,a,updating part 25 application,0.7,YES,Junior,preparing documents
+p-1101,a,continued review of files,1.5,YES,Partner,"analyse, review, research"
+p-1103,a,review costs.,0.2,NO,Junior,admin
+p-1104,a,preparing an email to client and a draft email to other side.,0.3,YES,Senior,client time
+p-1106,a,client 1 email out,0.1,YES,Partner,client time
+p-1107,a,email from client on closed file - considering and responding to query re complaint made to court,0.9,YES,Junior,client time
+p-1108,a,consider correspondence and previous drafts. extensive comments to client.,1,YES,Senior,client time
+p-1109,a,attending the initial meeting in the sheffield office.,1.5,YES,Junior,client time
+p-1110,a,review counsel options for directions hearing in july,0.1,YES,Senior,"analyse, review, research"
+p-1111,a,personal development workshop,1,NO,Junior,admin
+p-1112,a,supervision: revise/amend letter of engagement and risk assessment,0.5,NO,Senior,onboarding
+p-1113,a,call to client x 3,0.3,YES,Senior,client time
+p-1114,a,draft/ revise dra index,0.1,YES,Senior,preparing documents
+p-1115,a,prepping letter of engagement and risk assessment ahead of wednesday,0.9,NO,Junior,onboarding
+p-1116,a,attend pre trial review,7,YES,Junior,client time
+p-1117,a,review and analysis of emails accompanying cm report,0.3,YES,Senior,"analyse, review, research"
+p-1118,a,draft update to client,0.2,YES,Senior,client time
+p-1119,a,communicate (other party(s)/other outside lawyers) long drafting proposal following private financial dispute resolution.,0.4,YES,Partner,Other comms
+p-1120,a,analyse current position and correspondence,0.2,YES,Junior,"analyse, review, research"
+p-1121,a,"email to client with draft letter, draft order and email",0.1,YES,Senior,client time
+p-1122,a,preparing form g,0.2,YES,Junior,preparing documents
+p-1123,a,review and consider order,0.1,YES,Senior,"analyse, review, research"
+p-1124,a,drafting index to private financial dispute resolution bundle,0.3,YES,Junior,preparing documents
+p-1125,a,email re joint and separate property,0.3,YES,Partner,client time
+p-1126,a,reading messages and email to you,0.3,YES,Partner,client time
+p-1128,a,"advice on client response, strategy, next steps and costs. time spent considering position.",0.8,YES,Senior,client time
+p-1130,a,call in from the client with an update - w now pursuing mps - meeting arranged,0.2,YES,Junior,client time
+p-1131,a,letter to court,0.3,YES,Junior,preparing documents
+p-1132,a,email from client with update - she has finally shorted the answers for pension form and she has sent email re her new role.,0.1,YES,Senior,client time
+p-1133,a,initial formal meeting via teams with client,1.4,YES,Senior,client time
+p-1134,a,draft/ revise,0.6,YES,Partner,preparing documents
+p-1136,a,attending call with client to discuss proposed offer.,0.4,YES,Junior,client time
+p-1138,a,draft advice to client regarding call with la,0.2,YES,Senior,client time
+p-1139,a,scanning and moving files to share drive,0.2,NO,Junior,admin
+p-1140,a,email in from client re instructions and shared care arrangement,0.1,YES,Junior,client time
+p-1141,a,email to client,0.1,YES,Partner,client time
+p-1143,a,reviewing internal compliance checklist,0.4,NO,Junior,admin
+p-1145,a,email out to client asking for update,0.1,YES,Senior,client time
+p-1146,a,attending fee earner call with client ahead of financial dispute resolution.,0.2,YES,Junior,client time
+p-1147,a,internal meeting for handover,0.4,NO,Junior,admin
+p-1148,a,preparing letter of engagement.,1.1,NO,Junior,onboarding
+p-1149,a,new client - picking up warm transfer,1.1,YES,Junior,client time
+p-1150,a,email to client with approved order,0.1,YES,Partner,client time
+p-1151,a,lengthy email out client re consent order,0.3,YES,Senior,client time
+p-1152,a,communicate (internally within legal team) in preparation for financial dispute resolution.,0.1,YES,Junior,Other comms
+p-1153,a,email from client with the pension info - review these - note 1 is password protected.,0.5,YES,Senior,client time
+p-1154,a,updating the letter of engagement.,0.8,NO,Junior,onboarding
+p-1155,a,review client's disclosure,0.2,YES,Partner,"analyse, review, research"
+p-1156,a,communicate (other party(s)/other outside lawyers) - email out to other side chansing exchange of form e,0.1,YES,Junior,Other comms
+p-1159,a,drafting initial proposal letter to other party.,1.2,YES,Junior,preparing documents
+p-1160,a,drafting letter of engagement,0.9,NO,Junior,onboarding
+p-1162,a,prepared final invoice and emailed to client,0.4,NO,Senior,billing
+p-1163,a,checking enclosures to counsel's brief.,0.2,YES,Senior,preparing documents
+p-1164,a,drafted letter,0.5,YES,Senior,preparing documents
+p-1165,a,communicate (other party(s)/other outside lawyers) - email to court and to other side re signing order,0.2,YES,Partner,Other comms
+p-1166,a,draft/ revise letter of engagement and risk assessment,0.4,NO,Senior,onboarding
+p-1167,a,emailing sharepoint warm transfer client with cost details for initial appointment,0.2,YES,Junior,client time
+p-1169,a,review/finalise letter to be sent,0.1,YES,Senior,"analyse, review, research"
+p-1170,a,updating draft index.,0.1,YES,Junior,preparing documents
+p-1171,a,finalise clean order to send to other side,0.1,YES,Senior,preparing documents
+p-1172,a,email in from the client attaching draft statement,0.1,YES,Junior,client time
+p-1175,a,communicate (other external) court re sealing of order,0.1,YES,Senior,Other comms
+p-1176,a,"communicate (internally within legal team) tactical and legal discussion regarding benefits, mortgage cap, offer to consider making",0.5,YES,Junior,Other comms
+p-1177,a,email from client re draft to la,0.2,YES,Senior,client time
+p-1178,a,review and amend brief.,0.3,YES,Senior,preparing documents
+p-1179,a,detailed amendments to draft letter of advice,0.8,YES,Senior,preparing documents
+p-1180,a,communicate (other party(s)/other outside lawyers) regarding correspondence from children's services.,0.1,YES,Senior,Other comms
+p-1181,a,review email from client and 2 x emails from conveyancer,0.1,YES,Senior,"analyse, review, research"
+p-1182,a,draft letter of engagement and associated documents,0.8,NO,Junior,onboarding
+p-1184,a,exchange of emails with client re call and update from la,0.2,YES,Senior,client time
+p-1185,a,initial free call with client - referal from previous client. intial appointment arranged,0.6,YES,Junior,client time
+p-1186,a,analysing court order,0.9,YES,Senior,"analyse, review, research"
+p-1187,a,reviewing statement and some amends,0.4,YES,Partner,"analyse, review, research"
+p-1192,a,attending conference with counsel with client and counsel,4.4,YES,Junior,client time
+p-1193,a,review and analysis of draft order,0.4,YES,Senior,"analyse, review, research"
+p-1194,a,call with client - answering queries on draft order and update on d eighty one / next steps and timescales.,0.3,YES,Junior,client time
+p-1195,a,sending email to client. re-sent letter of engagement awaiting signature,0.2,NO,Junior,onboarding
+p-1196,a,revising narrative for c2 application,1.1,YES,Senior,preparing documents
+p-1197,a,"review and analysis of amend consent order, and advice to client.",0.7,YES,Senior,"analyse, review, research"
+p-1198,a,revising list of documents to accompany form e,0.3,YES,Junior,preparing documents
+p-1199,a,email out to client with drafts,0.1,YES,Junior,client time
+p-1200,a,crosschecking form e/ correspondence - berlin apartments - to confirm address.,0.1,YES,Junior,preparing documents
+p-1201,a,sync meeting,1,NO,Senior,admin
+p-1202,a,communicate (internally within legal team) - instructions re brief to counsel and bundle,0.6,YES,Senior,Other comms
+p-1203,a,communicate (other party(s)/other outside lawyers) exchnage emails,0.2,YES,Junior,Other comms
+p-1204,a,court attendance,2.4,YES,Junior,preparing documents
+p-1205,a,call with potential new client,0.5,YES,Senior,client time
+p-1206,a,communicate (experts) - email from accountant to client re tax,0.1,YES,Senior,Other comms
+p-1207,a,"long email exchange re costs, the proceedings and way forward",0.4,YES,Partner,client time
+p-1208,a,draft parenting plan as part of proposal,0.4,YES,Senior,preparing documents
+p-1209,a,considering file further to letter from other side and preparing an email to client with my advice.,0.7,YES,Senior,client time
+p-1211,a,draft form e inc narrative,1.7,YES,Junior,preparing documents
+p-1214,a,review/amend draft lo to court- incl updated version following further instructions from client,0.3,YES,Partner,"analyse, review, research"
+p-1215,a,draft letter of advice to client,0.5,YES,Junior,preparing documents
+p-1217,a,draft letter of advice,3,YES,Junior,preparing documents
+p-1219,a,"finalising response document with significant amend following review, finalising position statement and letter and sending to client with short advice.",0.6,YES,Junior,preparing documents
+p-1220,a,eemail from client asking to submit c2 and details of instructions for hearing,0.2,YES,Senior,client time
+p-1221,a,communicate (other external)- communicate with counsel,0.3,YES,Senior,Other comms
+p-1222,a,internal emails,0.1,NO,Junior,admin
+p-1223,a,amending letter of engagement,0.5,NO,Junior,onboarding
+p-1224,a,"file notice of acting, c7 and c2, and serve",0.2,YES,Junior,"analyse, review, research"
+p-1225,a,email to client updating from other side,0.1,YES,Senior,client time
+p-1226,a,call with client re: statement,0.3,YES,Partner,client time
+p-1227,a,prep letter of engagement and risk assessment,0.8,NO,Junior,onboarding
+p-1228,a,call with client via teams - see note for details.,0.8,YES,Junior,client time
+p-1229,a,drafted imporant note for file on call re costs and letters / progress,0.2,YES,Senior,client time
+p-1230,a,communicate (experts) - email from surveyor.,0.1,YES,Senior,Other comms
+p-1231,a,amending letter of engagement to include client's address. sending letter to be printed and posted as per client's request,0.1,NO,Junior,onboarding
+p-1233,a,x2 emails from client.,0.2,YES,Senior,client time
+p-1234,a,drafting detailed file note from initial meeting,0.6,YES,Junior,preparing documents
+p-1235,a,communicate (other external) - email out to the court lodging d11 applications and also lodging the applications on the court portal,0.2,YES,Junior,Other comms
+p-1236,a,various complaints handling and call with compliance,3,NO,Junior,admin
+p-1237,a,drafting file note from financial dispute resolution. covering pre-hearing discussions with counsel,1.1,YES,Junior,preparing documents
+p-1238,a,working on form e,1,YES,Senior,preparing documents
+p-1239,a,call from client and initial advice / overview re weekend dog incident and phone blocking,0.3,YES,Senior,client time
+p-1241,a,preparing and printing documents,0.1,NO,Junior,admin
+p-1242,a,communicate (other party(s)/other outside lawyers) - from other side re date for mediation.,0.1,YES,Senior,Other comms
+p-1244,a,amending and finalising letter of engagement and draft email to client,0.9,NO,Junior,onboarding
+p-1246,a,initial fixed fee consultation,1,YES,Junior,client time
+p-1247,a,"updating disclosure bundle and index further to receiving client's updated bank statements, payslips and mortgage statement.",0.6,YES,Junior,preparing documents
+p-1249,a,printer maintenance coordination,0.1,NO,Senior,admin
+p-1250,a,review of fm5,0.1,YES,Senior,"analyse, review, research"
+p-1251,a,"long email to you dealing with other side letter, your emails and tax liabilities",0.5,YES,Partner,client time
+p-1252,a,draft/ revise letter other side,0.2,YES,Junior,preparing documents
+p-1253,a,appear for / attending private financial dispute resolution with counsel and client,7.5,YES,Senior,client time
+p-1254,a,"email from client - """"",0.1,YES,Senior,client time
+p-1255,a,email out to the client re litigation loan,0.3,YES,Junior,client time
+p-1256,a,phoned client; dictating telephone attendance note.,1.2,YES,Senior,client time
+p-1257,a,email out to client with draft letter,0.1,YES,Partner,client time
+p-1258,a,considering response to d eighty one,0.2,YES,Junior,preparing documents
+p-1260,a,communicate (with outside counsel) emails with clerks regarding private financial dispute resolution availabilities,0.1,YES,Senior,Other comms
+p-1263,a,drafting response to complaint,1.2,NO,Senior,admin
+p-1264,a,"review draft form e, sent email to client re:missing details",1.6,YES,Senior,client time
+p-1266,a,communicate (other party(s)/other outside lawyers) email in from other side with letter and considering,0.1,YES,Junior,Other comms
+p-1267,a,revise/amend brief,1.2,YES,Senior,preparing documents
+p-1269,a,email out to the client attaching w d eighty one,0.1,YES,Junior,client time
+p-1270,a,tried to upload case files to share drive but unreachable. call with it,0.5,NO,Senior,admin
+p-1271,a,communicate (other party(s)/other outside lawyers) re school reports etc,0.1,YES,Senior,Other comms
+p-1272,a,"review/analyse form e and income needs schedule to assess ability to meet outgoings and remaining discloures, calculations re income",0.4,YES,Senior,"analyse, review, research"
+p-1274,a,email in from the client - approval of co and d eighty one,0.1,YES,Junior,client time
+p-1275,a,email from client,0.1,YES,Senior,client time
+p-1276,a,1st joint session,1.5,YES,Senior,preparing documents
+p-1277,a,email to client.,0.1,YES,Senior,client time
+p-1278,a,communicate (with outside counsel) re court dates and plan / update,0.1,YES,Senior,Other comms
+p-1279,a,exchange of emails with client over bank holiday weekend re transfer of files from previous solicitor,0.1,YES,Partner,client time
+p-1280,a,telephone call with client re moving house - see file note,0.1,YES,Senior,client time
+p-1281,a,review/propose amends to loi,0.4,YES,Partner,"analyse, review, research"
+p-1282,a,reviewed updated statement and added notes for client,0.9,YES,Senior,"analyse, review, research"
+p-1284,a,client call re proposal and counter / next steps,0.5,YES,Senior,client time
+p-1285,a,email from client querying money on account; email to client explaining position. also chasing for info from accountant so we can decide whether to send our offer and progress matter.,0.2,YES,Senior,client time
+p-1286,a,communicate (with client) re call tomorrow and costs,0.1,YES,Senior,client time
+p-1287,a,draft letter of instruction,0.6,YES,Senior,preparing documents
+p-1288,a,amending letter of engagement,0.8,NO,Junior,onboarding
+p-1289,a,"email to client attaching form e and form e list of docs, explaining purpose, update on next steps",0.3,YES,Junior,client time
+p-1290,a,"communicate (other party(s)/other outside lawyers) email out to other side re: d11 application, conveyancing process, and proceeds of sale",0.3,YES,Senior,Other comms
+p-1292,a,review and analysis- x2 emails from client,0.2,YES,Senior,"analyse, review, research"
+p-1293,a,long call with client re letter and car/bond etc.,0.3,YES,Partner,client time
+p-1295,a,email client,0.4,YES,Junior,client time
+p-1296,a,initial work on proposal,0.9,YES,Junior,preparing documents
+p-1297,a,emails with new client referral,0.3,YES,Senior,client time
+p-1298,a,email to client with date for conditional order,0.1,YES,Senior,client time
+p-1299,a,call new enquiry,0.9,YES,Junior,client time
+p-1300,a,121 weekly meeting,0.5,NO,Junior,admin
+p-1305,a,representing client at hearing (9am - 5pm) including time spent drafting order/annexes.,8,YES,Senior,client time
+p-1307,a,attending call with client to discuss interim maintenance and strategy. agreed nc with client.,0.3,NO,Partner,client time
+p-1308,a,communicate (other party(s)/other outside lawyers) email out to other side re valuation,0.1,YES,Junior,Other comms
+p-1309,a,drafting and updating c2.,0.8,YES,Senior,preparing documents
+p-1310,a,email out to the client re children issues,0.3,YES,Junior,client time
+p-1311,a,court order from counsel considered and revised updated and returned to counsel to consider,0.3,YES,Senior,"analyse, review, research"
+p-1313,a,meeting with client and client to discuss draft orders.,1,YES,Senior,client time
+p-1314,a,communicate (other party(s)/other outside lawyers) email in from other side with bundle index,0.1,YES,Junior,Other comms
+p-1315,a,reviewing it system updates,0.5,NO,Senior,admin
+p-1317,a,considered client's email re mortgage arrears and drafted reply,1.2,YES,Senior,client time
+p-1318,a,tco to client,0.5,YES,Junior,client time
+p-1319,a,"call with client re updates, letter, sale of fmh and intermediary",0.3,YES,Junior,client time
+p-1320,a,revised order,0.2,YES,Senior,"analyse, review, research"
+p-1321,a,drafting initial letter to other side,1.7,YES,Junior,preparing documents
+p-1325,a,tell call with client; dictating telephone attendance note.,1.2,YES,Senior,client time
+p-1326,a,exchange of emails with client in evening,0.1,YES,Partner,client time
+p-1329,a,email exchange with client - advise re timing of d eighty one/ house purchase.,0.4,YES,Junior,client time
+p-1331,a,supervision: checked final invoice and sent to client,0.4,NO,Senior,billing
+p-1332,a,work on proposal draft,1.2,YES,Junior,preparing documents
+p-1335,a,drafting wills letter and email to client,0.2,YES,Junior,client time
+p-1336,a,communicate (internally within legal team),0.1,YES,Junior,Other comms
+p-1337,a,email echange re land as part of her propoal,0.1,YES,Partner,client time
+p-1338,a,review and analysis - cross-check heads of agreement and consent order,0.1,YES,Partner,"analyse, review, research"
+p-1339,a,email to potential new pre-nup client,0.2,YES,Partner,client time
+p-1340,a,draft c2 form,0.4,YES,Junior,preparing documents
+p-1343,a,telephone meeting with the client to go through w's d eighty one,0.7,YES,Junior,client time
+p-1345,a,communicate (other party(s)/other outside lawyers) email out to other side re exchange of mortgage cap,0.1,YES,Junior,Other comms
+p-1346,a,"review and analysis of both parties forms e, income and income needs",0.1,YES,Partner,"analyse, review, research"
+p-1348,a,tel call to client,0.4,YES,Partner,client time
+p-1349,a,email client for risk and compliance details to enable me to complete file opening and client care onboarding processes.,0.2,YES,Junior,client time
+p-1353,a,drafted brief to counsel to include feedback from client,0.4,YES,Partner,preparing documents
+p-1354,a,communicate (with client) final update and fees levels costs to client and also internal,0.1,YES,Senior,client time
+p-1355,a,revise advice to client,0.4,YES,Senior,client time
+p-1356,a,communicate (other external) re cafcass date for report emails,0.1,YES,Senior,Other comms
+p-1357,a,attend meeting with client,3.8,YES,Junior,client time
+p-1358,a,communicate (with client) - referral,0.2,YES,Partner,client time
+p-1360,a,review of first hearing dispute resolution appointment instructions to counsel ; amended updated and revised dra instructions,3.1,YES,Senior,"analyse, review, research"
+p-1363,a,review sealed order,0.4,YES,Senior,"analyse, review, research"
+p-1365,a,other,0.6,YES,Junior,Other comms
+p-1367,a,initial meeting with client (agreed non chargeable),1.6,NO,Partner,admin
+p-1368,a,draft/ revise waiver,0.3,YES,Junior,preparing documents
+p-1370,a,call with client quick amend to letter of engagement re letter of advice,0.3,NO,Junior,onboarding
+p-1372,a,communicate (with client) re letters and advice to follow,0.1,YES,Senior,client time
+p-1373,a,considering file further to email with client and preparing a response; further emails with client.,0.6,YES,Senior,client time
+p-1374,a,drafting consent order,2.6,YES,Junior,preparing documents
+p-1376,a,long call with client - him bringing me up to date with where he and his wife are - children issues and long term plans,0.4,YES,Partner,client time
+p-1377,a,"amending draft proposal, waiver, considering terms of settlement",1.1,YES,Senior,preparing documents
+p-1378,a,handover after maternity leave,1,NO,Partner,admin
+p-1379,a,detailed review and consideration of 12 page response and counter offer part 36,0.6,YES,Senior,"analyse, review, research"
+p-1380,a,attending court,1.9,YES,Junior,client time
+p-1381,a,review client emails in and position re offer,0.1,YES,Senior,"analyse, review, research"
+p-1383,a,finalising complaint response.,0.3,NO,Senior,admin
+p-1384,a,amending letter of engagement after discussion with supervisor,0.9,NO,Junior,onboarding
+p-1385,a,"supervision: review/approve/amend case summary, draft order and index",0.6,NO,Senior,admin
+p-1386,a,draft/ revise further amendments to questionnaire,0.5,YES,Senior,preparing documents
+p-1388,a,final emails with client,0.2,YES,Senior,client time
+p-1390,a,email from client re:general practitioner records,0.1,YES,Senior,client time
+p-1391,a,new client - picking up warm transfer,0.5,YES,Junior,client time
+p-1392,a,email to client with an update.,0.1,YES,Senior,client time
+p-1393,a,case files analysis,0.8,YES,Junior,"analyse, review, research"
+p-1394,a,communicate (other party(s)/other outside lawyers) email in from other side re pension valuation,0.1,YES,Junior,Other comms
+p-1396,a,"amending/finalising letter of engagement (reviewing amends, accepting track changes, redating, re formatting, removing highlighting, saving in pdf).",0.4,NO,Junior,onboarding
+p-1397,a,draft/ revise letter of engagement and risk assessment.,0.5,NO,Senior,onboarding
+p-1398,a,reviewing file for details of case number and court details ahead of contacting court,0.1,YES,Junior,"analyse, review, research"
+p-1399,a,analysing s 7 report,0.2,YES,Senior,"analyse, review, research"
+p-1401,a,email to client re details,0.2,YES,Partner,client time
+p-1402,a,draft/ revise true equality document with updating disclosure figures,0.5,YES,Junior,preparing documents
+p-1404,a,reviewed bundle index and added missing chronology,2.1,YES,Senior,"analyse, review, research"
+p-1405,a,revise/amend draft directions order,0.2,YES,Senior,preparing documents
+p-1407,a,reviewing case updates (supervision),2.5,NO,Senior,admin
+p-1409,a,email from client re her working hours - review and consider,0.1,YES,Senior,"analyse, review, research"
+p-1410,a,draft order,0.3,YES,Senior,preparing documents
+p-1411,a,letter reply to other side,0.3,YES,Senior,preparing documents
+p-1412,a,review letter regarding charging order.,0.1,YES,Senior,"analyse, review, research"
+p-1416,a,"email from client - ""we are going to cornwall"".",0.1,YES,Senior,client time
+p-1417,a,communicate (with outside counsel)- various calls with counsel regarding hearing,0.5,YES,Senior,Other comms
+p-1418,a,email to client with questions regarding property ownership to assist with researching title registers.,0.2,YES,Junior,client time
+p-1419,a,communicate (internally within legal team) - re monthly invoices etc.,1.5,YES,Senior,Other comms
+p-1421,a,121 weekly meeting non billable to client,0.5,NO,Junior,admin
+p-1422,a,email from you and to you re: your application,0.1,YES,Partner,client time
+p-1423,a,update and order / letter to client to consider,0.1,YES,Senior,client time
+p-1424,a,email to client with email to la,0.1,YES,Senior,client time
+p-1425,a,message exchnage with the client re update and sale of house,0.2,YES,Junior,client time
+p-1427,a,revew schedule of properties produced,0.1,YES,Senior,preparing documents
+p-1429,a,considering file and preparing a response to an email to the practice manager.,0.4,YES,Senior,client time
+p-1431,a,tel call with client re supervising contact,0.6,YES,Junior,client time
+p-1433,a,review email in from client with instructions on settlement.,0.1,YES,Senior,client time
+p-1435,a,initial appointment,1.5,YES,Senior,client time
+p-1436,a,communicate (other party(s)/other outside lawyers) email in from other side with issued proceedings and reviewing,0.1,YES,Junior,Other comms
+p-1439,a,communicate (with outside counsel) re final hearing in children,0.1,YES,Senior,Other comms
+p-1440,a,teams meeting with the client to go through form e and approve,0.4,YES,Junior,client time
+p-1441,a,communicate (other party(s)/other outside lawyers) email out to other side re stay in divorce,0.2,YES,Junior,Other comms
+p-1442,a,initial meeting with client,1.5,YES,Senior,client time
+p-1443,a,drafting notes of calls to chambers.,0.1,YES,Senior,preparing documents
+p-1444,a,exchange of emails with client regarding la,0.2,YES,Senior,client time
+p-1445,a,draft letter and research into barristers,0.1,YES,Senior,preparing documents
+p-1447,a,updating internal case logs,0.6,NO,Senior,admin
+p-1448,a,email to client to chase response regarding id verification call,0.1,NO,Junior,onboarding
+p-1452,a,review / amend letter of engagement / risk assessment,0.6,NO,Junior,onboarding
+p-1454,a,further emails with client,0.3,YES,Senior,client time
+p-1455,a,liaising internally re costs [nc],0.2,NO,Senior,admin
+p-1457,a,"document production creation and preparation collating updating disclosure and draf email to client, collating current position of replies to further requests and updating progress on to do list",2.2,YES,Junior,client time
+p-1459,a,reviewing file for last correspondence re mortgage capacity report and to obtain details of person who prepared the reports in order to get in touch to enquire about preparing updated versions for client,0.3,YES,Junior,"analyse, review, research"
+p-1463,a,drafting funding risk assessment and letter of engagement.,0.7,NO,Junior,onboarding
+p-1464,a,appear for/ attend - initial meeting with client. agreed no charge,1.5,NO,Partner,client time
+p-1465,a,it training,1,NO,Junior,admin
+p-1466,a,handover discussions,1,NO,Junior,admin
+p-1468,a,email to client,0.1,YES,Senior,client time
+p-1469,a,draft/ revise - d11,0.5,YES,Junior,preparing documents
+p-1470,a,email to client attaching updated form e enclosures and advising on note made in index of bundle regarding credit card balances.,0.1,YES,Junior,client time
+p-1471,a,letter from other side reviewed ; also advice follow up to client,0.6,YES,Senior,client time
+p-1473,a,call from contact centre re new enquiry and discussing initial steps to be taken. taking call back from caller. obtaining brief summary of case and providing contact details for them to call back once spoken with sister whether happy to use a translator.,0.8,YES,Junior,client time
+p-1475,a,attending initial call with client.,1.1,YES,Junior,client time
+p-1476,a,checking/amending letter of engagement.,0.5,NO,Senior,onboarding
+p-1478,a,amending order,0.3,YES,Senior,preparing documents
+p-1479,a,communicate (with client) - meeting with client.,1.3,YES,Senior,client time
+p-1480,a,communicate (other party(s)/other outside lawyers) email out to other side re pension valuation,0.1,YES,Junior,Other comms
+p-1482,a,draft funding letter,0.2,YES,Senior,preparing documents
+p-1483,a,"communicate (other party(s)/other outside lawyers) - email in from other side confirming in process of preparing form h, form g, and update case summary and schedule of assets which will follow shortly",0.1,YES,Junior,Other comms
+p-1484,a,considering email in from client,0.1,YES,Junior,client time
+p-1485,a,draft re proposal and outcome. substantive additions and amendments,1,YES,Senior,preparing documents
+p-1486,a,"billing, corrected discrepancies, sent bill",0.3,NO,Junior,billing
+p-1487,a,long call with client re case but specifically about land and docs,0.8,YES,Partner,client time
+p-1488,a,review documents and liaise internal,0.2,YES,Junior,"analyse, review, research"
+p-1489,a,email to client,0.3,YES,Junior,client time
+p-1490,a,drafting brief to counsel and sending to counsel with documents,0.8,YES,Senior,preparing documents
+p-1491,a,letters out other side,0.6,YES,Senior,Other comms
+p-1492,a,draft letter of advice and consent order,1.5,YES,Senior,preparing documents
+p-1493,a,"revise order in line with client's instructions, consider emails in from client",0.3,YES,Senior,client time
+p-1494,a,preparing department session,0.6,NO,Partner,admin
+p-1495,a,drafting form g to include in bundle for fda hearing,0.1,YES,Junior,preparing documents
+p-1498,a,email to client with copy email from opp and info from 2 x mediators,0.2,YES,Partner,client time
+p-1499,a,review severance,0.2,YES,Junior,"analyse, review, research"
+p-1500,a,amends made to funding options letter,0.5,NO,Junior,admin
+p-1501,a,drafted reply to other side for client to consider,0.2,YES,Senior,preparing documents
+p-1502,a,communicate (other party(s)/other outside lawyers) email in from other side re mortgage cap exchange,0.1,YES,Junior,Other comms
+p-1503,a,review schedule of properties produced,0.1,YES,Senior,"analyse, review, research"
+p-1504,a,detailed review and consideration of 12 page response and counter offer part 36,0.6,YES,Senior,"analyse, review, research"
+p-1505,a,review and amend letter of engagement and draft risk assessment.,0.5,NO,Senior,onboarding
+p-1508,a,tel call to client,0.3,YES,Partner,client time
+p-1509,a,updating s25 enclosures with additional mortgae document further to receipt of house valuation.,0.1,YES,Junior,preparing documents
+p-1510,a,email out to client with draft letter,0.1,YES,Junior,client time
+p-1511,a,initial review of other side replies,0.5,YES,Junior,"analyse, review, research"
+p-1513,a,email exchange with new client ahead of initial appointment.,0.4,YES,Junior,client time
+p-1515,a,communicate (other party(s)/other outside lawyers) email out to other side re time for exchange,0.1,YES,Junior,Other comms
+p-1518,a,review cafcass amended section 7 report,0.2,YES,Senior,"analyse, review, research"
+p-1519,a,communicate (experts) enquiries with 5 experts in france - see file note,0.3,YES,Senior,Other comms
+p-1521,a,email to client courtesy email,0.1,YES,Senior,client time
+p-1523,a,communicate (internally within legal team) tactical and legal discussion regarding multiple correspondence from other side and prep for financial dispute resolution,0.7,YES,Junior,Other comms
+p-1524,a,review and analysis amending letter to client enclosing decree absolute,0.4,YES,Senior,"analyse, review, research"
+p-1525,a,"proposed response and amends to draft order, proposed further amends and comments",0.3,YES,Partner,client time
+p-1526,a,email exchange with client,0.1,YES,Senior,client time
+p-1527,a,communicate (internally within legal team) referral re litigation loan,0.1,YES,Senior,Other comms
+p-1528,a,from client re direct email from other side. review draft response and respond with comments.,0.1,YES,Senior,client time
+p-1529,a,review email from client with update re mortgage arrears,0.1,YES,Junior,client time
+p-1530,a,review 2 x email in and attachments and prepare replies to schedule of deficiencies and email out to client for approval.,1.1,YES,Junior,client time
+p-1531,a,review and analysis directions order,0.3,YES,Senior,"analyse, review, research"
+p-1534,a,draft/ revise - leo and risk assessment,0.5,NO,Partner,onboarding
+p-1536,a,updating enclosures and index with tax return and calculation statement.,0.3,YES,Junior,preparing documents
+p-1538,a,email exchange with client - not ready to proceed yet but gfm advice on timing of applicaiton. email to be completed.,0.3,YES,Junior,client time
+p-1539,a,reviewing and finalising letter of engagement and risk assessment.,0.3,NO,Senior,onboarding
+p-1540,a,receiving and reviewing storage unit invoice.,0.1,YES,Junior,"analyse, review, research"
+p-1541,a,lengthy call with client discussing developments and next steps,1.3,YES,Senior,client time
+p-1543,a,attendance at final hearing at sheffield family court,6.5,YES,Junior,client time
+p-1545,a,advice to client alongside consent order (comments in word doc),0.5,YES,Junior,client time
+p-1546,a,review position and liaise internally,0.3,YES,Junior,"analyse, review, research"
+p-1547,a,"considering emails in from the client re his sip pension, queries re w disclosutre re her pensions",0.3,YES,Junior,client time
+p-1548,a,drafted final invoice and manually updated billing system,0.4,NO,Junior,billing
+p-1549,a,amending form e,0.9,YES,Senior,preparing documents
+p-1552,a,email and letter re mediation proceeding well and they are surprised we have issued proceedings,0.1,YES,Senior,client time
+p-1553,a,sharepoint new enquiry: call to obtain op's details for file opening.,0.3,YES,Junior,client time
+p-1554,a,communicate (with client) email to client regarding handover,0.2,NO,Senior,client time
+p-1555,a,supervision: revise/amend statement,0.7,NO,Senior,preparing documents
+p-1556,a,draft costs review letter,0.6,NO,Junior,admin
+p-1557,a,long call with client re resignation,0.8,YES,Partner,client time
+p-1559,a,emails with client.,0.1,YES,Senior,client time
+p-1560,a,draft letter of engagement and associated documents.,0.9,NO,Junior,onboarding
+p-1561,a,detailed response to client about questions regarding fda and next steps,0.5,YES,Senior,client time
+p-1562,a,"communicate (internally within legal team) regarding client instructions, clarifications required and amends needed on loi and draft comms to other side in light of client instructions; ref to foreign property and tax issues",0.4,YES,Partner,Other comms
+p-1565,a,email in from client chasing letter of engagement and response.,0.1,NO,Senior,onboarding
+p-1566,a,email exchange w / client re call.,0.1,YES,Senior,client time
+p-1567,a,amend/revise loa and finalise letter other side,0.5,YES,Senior,preparing documents
+p-1568,a,reviewing conveyancer emails,0.5,YES,Senior,"analyse, review, research"
+p-1570,a,communicate (other external) court,0.3,YES,Senior,Other comms
+p-1571,a,draft email out to client,0.4,YES,Junior,client time
+p-1572,a,long call with client to bgo through the tax calculations,1.3,YES,Partner,client time
+p-1574,a,email from client with further copy of dbs check - is full copy - some concerns though with how it will transfer into a court bundle,0.1,YES,Senior,client time
+p-1575,a,email from client w/proposed response.,0.1,YES,Senior,client time
+p-1576,a,considering draft heads of terms and email to client,0.3,YES,Partner,client time
+p-1577,a,email in from client and response,0.3,YES,Senior,client time
+p-1578,a,email in from client re h financial disclosure deficiencies,0.2,YES,Junior,client time
+p-1579,a,revise schedule of assets with figures from updating disclosure,0.3,YES,Junior,preparing documents
+p-1580,a,communicate (with client),0.4,YES,Partner,client time
+p-1581,a,communicate (with outside counsel) conference with counsel,0.7,YES,Senior,Other comms
+p-1582,a,internal next steps following initial meeting,0.1,YES,Junior,client time
+p-1583,a,tel call with client,1.1,YES,Junior,client time
+p-1584,a,client prep ahead of hearing,2.2,YES,Senior,client time
+p-1585,a,email from client re property particulars and mortgage report.,0.2,YES,Senior,client time
+p-1586,a,child impact report,0.7,YES,Junior,"analyse, review, research"
+p-1587,a,email to client to share contact details ahead of attending financial dispute resolution and to confirm hearing location and meeting time.,0.1,YES,Junior,client time
+p-1588,a,communicate (other party(s)/other outside lawyers) chasing other side for response regarding draft order.,0.1,YES,Senior,Other comms
+p-1590,a,email from client re la,0.2,YES,Senior,client time
+p-1592,a,divorce portal update email from client,0.1,YES,Senior,client time
+p-1593,a,call with client regarding instructions on property and waiver.,0.1,YES,Senior,client time
+p-1595,a,detailed 2 emails to from client re cafcass report and progress disclosure and costs,0.2,YES,Senior,client time
+p-1596,a,consideration of cafacass report,1.2,YES,Partner,"analyse, review, research"
+p-1597,a,detailed review fo h form e and also preparing chronology and file note - ahead of questionnaire and fda.,1.1,YES,Junior,preparing documents
+p-1598,a,revised supplemental questionnaire and email to client,0.1,YES,Senior,client time
+p-1599,a,tel call with client re update from other side and preparing d11 and consent order - client agrees to pay court fee including attendance note,0.5,YES,Junior,client time
+p-1600,a,drafting counter-offer to send to other side,2,YES,Junior,preparing documents
+p-1601,a,email exchnage with the client re progress and exchange,0.2,YES,Junior,client time
+p-1602,a,draft/ revise instructions to counsel for tax discussion.,0.2,YES,Senior,preparing documents
+p-1603,a,preparing a witness statement addressing claims,2.8,YES,Senior,preparing documents
+p-1605,a,could not update share folder - it issues. call with it desk,0.3,NO,Senior,admin
+p-1606,a,review pip douments,0.1,YES,Senior,"analyse, review, research"
+p-1607,a,email to client requesting update on property valuation and property particulars.,0.1,YES,Junior,client time
+p-1610,a,sent brief response to client's email re supervision on monday evening and agreeing with approach taken by client,0.1,YES,Junior,client time
+p-1611,a,email from client w/ appclose chat. revieing briefly,0.1,YES,Senior,client time
+p-1612,a,email out to other side with c2 form,0.1,YES,Junior,client time
+p-1613,a,share folder newest case records and logs,0.7,NO,Junior,admin
+p-1617,a,"communicate (internally within legal team) regarding form e, strategy and next steps",0.1,YES,Senior,Other comms
+p-1618,a,exchange of messages with client,0.2,YES,Senior,client time
+p-1619,a,sending approved email to client to discuss query regarding draft letter before claim,0.1,YES,Junior,client time
+p-1621,a,"call with client to discuss cards for children, amended s7 report, and third party disclosure.",0.4,YES,Senior,client time
+p-1622,a,finalising draft letter of engagement and sending for approval,0.6,NO,Junior,onboarding
+p-1626,a,email to client with blank form e and instructions,0.1,YES,Partner,client time
+p-1627,a,"arrange for letter of engagement to be drafted, explained process of review.",0.5,NO,Senior,onboarding
+p-1630,a,communicate (other party(s)/other outside lawyers),1,YES,Junior,Other comms
+p-1631,a,review and amend draft order,0.4,YES,Senior,preparing documents
+p-1633,a,reviewing court order and considering next steps ahead of financial dispute resolution and/or proposals,0.1,YES,Junior,"analyse, review, research"
+p-1634,a,tel call with client; dictating telephone attendance note.,1.9,YES,Senior,client time
+p-1635,a,reviewing x3 emails and x2 purchase agreement documents,0.3,YES,Junior,"analyse, review, research"
+p-1636,a,scheduling client meetings,0.2,NO,Junior,admin
+p-1637,a,exchange with conveyancing,0.1,YES,Junior,client time
+p-1638,a,draft letter to client with paperwork and orders,0.2,YES,Senior,preparing documents
+p-1639,a,draft letter of advice,0.2,YES,Junior,preparing documents
+p-1640,a,draft/ revise deed of assisngment,0.3,YES,Senior,preparing documents
+p-1641,a,updating letter of engagement,0.4,YES,Junior,onboarding
+p-1642,a,call with client - case management re mediation and next steps,0.2,YES,Junior,client time
+p-1643,a,drafted and sent email to client with draft letter before claim for review and approval,0.1,YES,Junior,client time
+p-1644,a,review/amend comms re negotiation position,0.2,YES,Partner,"analyse, review, research"
+p-1645,a,draft letter of engagement and associated documents.,0.5,NO,Junior,onboarding
+p-1649,a,emails to client (x2) re challenging costs,0.1,YES,Partner,client time
+p-1651,a,communicate (other party(s)/other outside lawyers) review letter to other side,0.2,YES,Partner,Other comms
+p-1652,a,follow up on sharepoint call from yesterday (new client),0.5,YES,Junior,client time
+p-1653,a,considering file further to letter from other side and preparing an email to client and a draft email to other side.,1.1,YES,Senior,client time
+p-1654,a,email to client acknowledging receipt of her approval to send letter to other side and offering support.,0.1,YES,Junior,client time
+p-1655,a,call with client,0.5,YES,Senior,client time
+p-1656,a,email to client,0.1,YES,Senior,client time
+p-1657,a,draft poa,0.1,YES,Senior,preparing documents
+p-1658,a,make final amendments to letter of engagement,0.3,NO,Junior,onboarding
+p-1659,a,finalising hearing note - planning next steps,0.2,YES,Junior,preparing documents
+p-1660,a,counsel note reviewed and email to counsel,0.4,YES,Junior,"analyse, review, research"
+p-1661,a,call in from client re issues with signing letter of engagement.,0.2,NO,Junior,onboarding
+p-1663,a,communicate (other external)- pre hearing call with counsel,0.5,YES,Senior,Other comms
+p-1664,a,communicate (internally within legal team): new client enquiry,0.2,YES,Junior,Other comms
+p-1665,a,call in from the client to discuss section 7 addendum report and prep for dra,0.9,YES,Junior,client time
+p-1666,a,email exchanges with client regarding draft letter of engagement and risk assessment.,0.2,NO,Junior,onboarding
+p-1667,a,communicate (with outside counsel) re amends to judgment,0.1,YES,Senior,Other comms
+p-1668,a,"email, client",0.3,YES,Junior,client time
+p-1669,a,updating internal templates,0.2,NO,Junior,admin
+p-1671,a,"consent order 1st draft , pulled together and drafted , checked order precedents",1.6,YES,Senior,preparing documents
+p-1672,a,"supervision: reviewed all bills, found discrepancies, sent back for revision",0.5,NO,Partner,billing
+p-1675,a,email out to the client attaching draft loi's and d11's,0.1,YES,Junior,client time
+p-1676,a,letter to other side re progress not having been made and why,1,YES,Senior,preparing documents
+p-1678,a,initial work on cohabitaiton agreement,1,YES,Junior,preparing documents
+p-1679,a,review client's comments and additions to letter,0.1,YES,Senior,"analyse, review, research"
+p-1681,a,exchnage of emails with client re sale of house,0.3,YES,Senior,client time
+p-1682,a,exchange of emails with client re house sale,0.1,YES,Partner,client time
+p-1683,a,communicate (other party(s)/other outside lawyers)- email out other side- will pass payment details to client. not instructed re conveyencing,0.1,YES,Senior,Other comms
+p-1684,a,exchange of emails with client re assistance reqd,0.2,YES,Partner,client time
+p-1685,a,initial client meeting,1.4,YES,Junior,client time
+p-1688,a,communicate (internally within legal team) - dealing with various matters arising in connection submissions from other side post hearing.,1,YES,Senior,Other comms
+p-1689,a,revised notes from conference with counsel pre first hearing dispute resolution appointment,0.5,YES,Senior,"analyse, review, research"
+p-1690,a,communicate (other external) email out to court filing statement,0.1,YES,Senior,Other comms
+p-1691,a,reviewing court orders and email out to the client with an update,0.3,YES,Junior,client time
+p-1692,a,liasing with it re:share drive issue,0.5,NO,Senior,admin
+p-1695,a,email exchange with the client re update,0.2,YES,Junior,client time
+p-1696,a,full review of s25 application,0.4,YES,Senior,"analyse, review, research"
+p-1697,a,tel call with client re updates,0.7,YES,Junior,client time
+p-1701,a,reviewed financial disclosure and sent email to client re:missing details,2,YES,Senior,client time
+p-1704,a,emails wiith client re settling bill,0.2,YES,Senior,client time
+p-1707,a,revising open proposal,0.3,YES,Senior,"analyse, review, research"
+p-1708,a,draft/ revise- letter of engagement and risk assessment,0.9,NO,Senior,onboarding
+p-1709,a,communicate (internally within legal team) - with conveyancing re property,0.3,YES,Senior,Other comms
+p-1710,a,notice and directions in from court,0.2,YES,Senior,"analyse, review, research"
+p-1711,a,review and amd to brief.,1.4,YES,Senior,preparing documents
+p-1712,a,draft foa and cross-checking with previous versions on file and preudential forms,0.2,YES,Senior,"analyse, review, research"
+p-1713,a,team meeting,1,NO,Junior,admin
+p-1714,a,communicate (other party(s)/other outside lawyers) exchnage of d eighty one,0.1,YES,Senior,Other comms
+p-1715,a,reviewing client comments on form e and further updating file note,0.2,YES,Junior,"analyse, review, research"
+p-1716,a,finalising and sending docs to client - including letter of advice,0.3,YES,Junior,preparing documents
+p-1717,a,email reply to new enquiry.,0.1,YES,Junior,client time
+p-1718,a,add to brief for final hearing,0.2,YES,Partner,preparing documents
+p-1719,a,review note from initial meeting.,0.3,YES,Senior,"analyse, review, research"
+p-1721,a,review/analyse of pna before call,0.4,YES,Senior,"analyse, review, research"
+p-1722,a,reviewing cleint's 16 page statement and exhibits,1.1,YES,Senior,"analyse, review, research"
+p-1724,a,reviewed section 7 report and highlighted safeguarding concerns,2.1,YES,Partner,"analyse, review, research"
+p-1725,a,communicate (with client) regarding passports and file closure.,0.2,YES,Senior,client time
+p-1726,a,draft/ revise pna,0.2,YES,Senior,preparing documents
+p-1727,a,email to client in full response to his email re his concerns and how we can strengthen our case,0.4,YES,Senior,client time
+p-1728,a,"review mortgage cap report, consider parameters for property particulars",0.5,YES,Junior,"analyse, review, research"
+p-1730,a,"reviewed draft letter, re-dated and finalised letter",0.1,YES,Junior,preparing documents
+p-1731,a,updating d eighty one form - w income and address,0.4,YES,Junior,preparing documents
+p-1732,a,draft/ revise amend letter,0.3,YES,Junior,preparing documents
+p-1733,a,actioning amends and updated draft,0.2,YES,Senior,preparing documents
+p-1734,a,review and analysis of 7 page capacity report,0.4,YES,Junior,"analyse, review, research"
+p-1735,a,prepare an1,0.6,YES,Junior,preparing documents
+p-1736,a,communicate (other party(s)/other outside lawyers) arrangements for exchnage of d eighty one,0.1,YES,Senior,Other comms
+p-1737,a,review of agreed order for action points email,0.1,YES,Senior,"analyse, review, research"
+p-1738,a,scanning property deeds,0.1,NO,Junior,admin
+p-1739,a,"draft/ revise - drafting risk assessment, letter of engagement and detailed costs estimate",0.7,NO,Partner,onboarding
+p-1740,a,drafting letter to court,0.2,YES,Senior,preparing documents
+p-1741,a,internal training,1,NO,Junior,admin
+p-1745,a,document production creation and preparation of the letter of engagement and risk assessment,0.7,NO,Junior,onboarding
+p-1746,a,update and draft to other side for client to consider,0.1,YES,Senior,client time
+p-1747,a,email from and to client,0.1,YES,Senior,client time
+p-1748,a,communicate (internally within legal team) re bundle and papers / chronology,0.1,YES,Senior,Other comms
+p-1749,a,completing mortgage capacity information and sending to client.,0.2,YES,Junior,client time
+p-1750,a,email out client with cost estimate and long email,0.3,YES,Partner,client time
+p-1752,a,internal call with compliance,0.5,NO,Junior,admin
+p-1753,a,amended draft re children proposals,0.6,YES,Senior,preparing documents
+p-1754,a,review draft ltr to other side and amd and also note documents to enclose and review,0.2,YES,Senior,"analyse, review, research"
+p-1755,a,revised order,0.4,YES,Senior,"analyse, review, research"
+p-1756,a,review and analysis,0.2,YES,Partner,"analyse, review, research"
+p-1758,a,call in from the client,0.3,YES,Junior,client time
+p-1760,a,drafting file note to log call to court details and next steps,0.1,YES,Junior,client time
+p-1761,a,communicate (internally within legal team) strategy discussion re loi and next steps,0.4,YES,Senior,Other comms
+p-1762,a,review email and enclosures from client,0.2,YES,Partner,"analyse, review, research"
+p-1763,a,review form e and enclosures,0.5,YES,Partner,"analyse, review, research"
+p-1764,a,3 page note from client with points to raise in correspondence and responding to each point with comprehensive advice,0.8,YES,Junior,client time
+p-1766,a,"communicate (experts) follow up emails with experts, providing further information and enquiry with new expert",0.2,YES,Senior,Other comms
+p-1767,a,update and comms to client,0.1,YES,Junior,client time
+p-1769,a,draft letter of engagement / risk assessment,0.7,NO,Junior,onboarding
+p-1770,a,reviewed draft directions and prepared summary for counsel,1.7,YES,Senior,"analyse, review, research"
+p-1771,a,amend letter in accordance with clietn instructions,0.1,YES,Junior,preparing documents
+p-1772,a,"attending and taking note of pre-hearing conference, attending and taking note of hearing, attending and taking note of post-hearing conference",2.7,YES,Junior,client time
+p-1773,a,email to client sending letter to other side and timeframe.,0.1,YES,Senior,client time
+p-1774,a,email from client - letter approved and dob for child needs altering.,0.3,YES,Senior,client time
+p-1777,a,communicate (internally within legal team) supervision of emails to court and client.,0.1,YES,Junior,Other comms
+p-1778,a,reviewed billing summary and approved,0.5,NO,Senior,billing
+p-1782,a,itnernal meeting,0.5,NO,Senior,admin
+p-1783,a,further email,0.1,YES,Partner,client time
+p-1784,a,supervision - review and minor revise email advice to client and draft letter,0.2,YES,Senior,"analyse, review, research"
+p-1785,a,review and revise statement,0.6,YES,Senior,"analyse, review, research"
+p-1786,a,communicate (other party(s)/other outside lawyers) email in from other side to court,0.1,YES,Senior,Other comms
+p-1787,a,detailed review and proposed amends/comments on draft cohabitation agreement and advice letter to client,1,YES,Partner,preparing documents
+p-1791,a,communicate (with outside counsel) regarding draft order.,0.1,YES,Senior,Other comms
+p-1793,a,draft loi,0.7,YES,Senior,preparing documents
+p-1794,a,exchange of emails with client re update,0.1,YES,Partner,client time
+p-1795,a,on boarding documents,0.5,YES,Junior,"analyse, review, research"
+p-1796,a,communicate (internally within legal team) sending of co and d eighty one to client,0.1,NO,Junior,Other comms
+p-1797,a,review and amend open offer,0.3,YES,Partner,preparing documents
+p-1798,a,follow up email to client further to call.,0.1,YES,Senior,client time
+p-1800,a,communicate (other party(s)/other outside lawyers)- email out other side with amended figures,0.2,YES,Senior,Other comms
+p-1801,a,draft d11 application form,0.4,YES,Junior,preparing documents
+p-1803,a,communicate (with client) - attempting to avoid complaint,0.4,YES,Senior,client time
+p-1805,a,email exchange with client (4 emails),0.3,YES,Junior,client time
+p-1807,a,"communicate (other party(s)/other outside lawyers) vm in from other side, returning call.",0.2,YES,Junior,Other comms
+p-1808,a,drafted d eighty one,0.7,YES,Senior,preparing documents
+p-1809,a,appear for/ attend meeting with client,1,YES,Junior,client time
+p-1810,a,communicate (other external) - email to la,0.1,YES,Senior,Other comms
+p-1811,a,internal policy updates,0.7,NO,Partner,admin
+p-1813,a,email to client re her working hours and a suggestion as to further information that could be provided,0.1,YES,Senior,client time
+p-1814,a,email to client - lengthy email re potential delay that can be caused if pension report cannot be provided in time and setting out timetable.,0.2,YES,Senior,client time
+p-1815,a,review and analyse third party disclosure.,1.9,YES,Senior,"analyse, review, research"
+p-1817,a,hearing note in from counsel and written advice and finalised order,0.4,YES,Senior,"analyse, review, research"
+p-1819,a,considering file further to email from client and amending email to other side; email to client.,0.3,YES,Senior,client time
+p-1820,a,email exchange with counsel,0.1,YES,Junior,client time
+p-1821,a,communicate (with client) email out to client setting out queries,0.2,YES,Senior,client time
+p-1823,a,preparing the letter of engagement following the initial client meeting,0.9,NO,Junior,onboarding
+p-1824,a,communicate (with client) arrangements for call,0.2,NO,Senior,client time
+p-1825,a,reviewing case documents non charged out of goodwill,4,NO,Partner,admin
+p-1826,a,minor amends to letter to other side with disclosure,0.1,YES,Junior,preparing documents
+p-1827,a,review draft case summary and making detailed amendments/comments to client.,1.4,YES,Senior,"analyse, review, research"
+p-1828,a,call with previous client wants to progress matters,0.3,YES,Senior,client time
+p-1830,a,reviewing case,1.8,YES,Senior,"analyse, review, research"
+p-1831,a,draft consent order and detailed advice to client. time spent considering and adding to advice to client. time also spent reviewing and updating draft d eighty one.,1.5,YES,Senior,client time
+p-1833,a,draft open proposal,0.3,YES,Senior,preparing documents
+p-1835,a,"checking draft order, email to client and amending d eighty one",0.5,YES,Senior,client time
+p-1836,a,continued review of docs,4,YES,Partner,"analyse, review, research"
+p-1837,a,communicate (experts) email out to expert and finalising enclosures,0.2,YES,Senior,Other comms
+p-1838,a,email out to the client with an update to confirm in process of finalising her questionnaire and will send to her shortly for approval,0.3,YES,Junior,client time
+p-1839,a,prepared invoice and sent for partner approval,0.2,NO,Junior,billing
+p-1841,a,attend final hearing day 1,5.5,YES,Partner,client time
+p-1842,a,considering h questionnaire,0.3,YES,Junior,"analyse, review, research"
+p-1843,a,preparing questionnaire in repsect of h's form e/ disclosure (7 pages),2.3,YES,Junior,preparing documents
+p-1844,a,supervision: strategic discussion regarding offer and confirming position/steps taken in respect of severence,0.2,YES,Senior,"analyse, review, research"
+p-1845,a,prepared summary of billable hours for client,0.1,NO,Junior,billing
+p-1846,a,draft/ revise - letter to other side solicitor (3 pages),1.3,YES,Junior,preparing documents
+p-1847,a,initial client appointment,0.9,YES,Senior,client time
+p-1848,a,intiial client call - referral from colleague,0.6,YES,Junior,client time
+p-1849,a,reviewed draft directions,1.1,YES,Senior,"analyse, review, research"
+p-1850,a,further email from client; preparing a response.,0.2,YES,Senior,client time
+p-1851,a,drafting schefule of assets,0.4,YES,Senior,preparing documents
+p-1853,a,draft/ revise - client statement,0.8,YES,Partner,preparing documents
+p-1854,a,update to client together with clear advice as to next steps now agreement reached,0.5,YES,Junior,client time
+p-1855,a,letter to other side re interim issues amends,0.4,YES,Junior,preparing documents
+p-1856,a,drafting schedule of assets,0.4,YES,Senior,preparing documents
+p-1857,a,analysing replies enclosures,0.3,YES,Senior,preparing documents
+p-1858,a,reviewing other side's form e (700+ pages) and drafting case summary case summary and schedule of assets shcedule of assets to assist with the preparation of the questionnaire (completed at the same time). reviewing client's own comments to ensure incorporated within the questionnaire.,6,YES,Senior,client time
+p-1859,a,review and finalise draft fe,0.4,YES,Partner,"analyse, review, research"
+p-1861,a,"significant case prep and review in order to set out detailed advice to client in respect of benefits, mortgage capacity, income position, updating disclosure and offer in order to prepare offer/for financial dispute resolution if necessary.",1.5,YES,Junior,client time
+p-1863,a,draft/ revise - form e narrative sections,2.2,YES,Junior,preparing documents
+p-1866,a,communicate (other party(s)/other outside lawyers) la providing translated document,0.1,YES,Senior,Other comms
+p-1867,a,"revise form e. review multiple pictures sent by client, collate into pdfs and update form e accordingly. email to client seeking missing information.",1.2,YES,Senior,client time
+p-1868,a,draft letter to other side (other side),0.5,YES,Junior,preparing documents
+p-1869,a,tidying and finalising meeting notes,0.1,YES,Junior,preparing documents
+p-1871,a,checking court bundle enclosures.,0.2,YES,Senior,"analyse, review, research"
+p-1872,a,post hearing discussions with the client,0.3,YES,Junior,client time
+p-1873,a,"email, courtesey so no charge",0.1,NO,Partner,onboarding
+p-1874,a,update case files,0.7,NO,Junior,admin
+p-1875,a,exchange of emails and call with you,0.2,YES,Partner,client time
+p-1877,a,communicate (other external)- emails with court on draft order,0.3,YES,Senior,Other comms
+p-1878,a,communicate (with outside counsel) post first hearing dispute resolution appointment check in with counsel - meeting / con on hearing and order,0.3,YES,Senior,Other comms
+p-1879,a,communicate (other party(s)/other outside lawyers): email regarding name change and contact,0.4,YES,Junior,Other comms
+p-1881,a,revise letter of advice,1.2,YES,Junior,preparing documents
+p-1882,a,communicate (internally within legal team) re approach/next steps,0.1,YES,Junior,Other comms
+p-1884,a,email to onboarding with letter of engagement and risk assessment,0.1,NO,Junior,onboarding
+p-1885,a,draft/ revise letter of engagement and risk assessment.,0.4,NO,Senior,onboarding
+p-1886,a,email out to the client re maint,0.3,YES,Junior,client time
+p-1887,a,drafting letter of engagement,1,NO,Junior,onboarding
+p-1890,a,email out to the client attaching letter from other side re fmh valuation,0.1,YES,Junior,client time
+p-1893,a,considering clients replies and documentation provided.,1.2,YES,Senior,"analyse, review, research"
+p-1894,a,review of and amends to comms to client and review of available csl for private financial dispute resolution,0.3,YES,Partner,"analyse, review, research"
+p-1895,a,communicate (with outside counsel) - conference with counsel.,1.8,YES,Senior,Other comms
+p-1896,a,client call and note of the same for file on case / email and advice progress - stressing to client need for streamlining,0.5,YES,Senior,client time
+p-1898,a,attend on client in appointment,1,YES,Senior,client time
+p-1899,a,email exchange with client,0.3,YES,Junior,client time
+p-1900,a,draft/ revise consent order,0.1,YES,Senior,preparing documents
+p-1901,a,uploading recent documents to share folder,0.6,NO,Junior,admin
+p-1904,a,email out to the client attaching sje quotes,0.1,YES,Junior,client time
+p-1905,a,draft letter of engagement and risk assessment,0.8,NO,Junior,onboarding
+p-1906,a,email re press with client and reply internal re journalist / thinking time too - right decision,0.3,YES,Senior,client time
+p-1907,a,"prep for call, call with client, dictate note of call",1.5,YES,Junior,client time
+p-1908,a,preparing the letter of engagement following the initial client meeting,0.3,NO,Junior,onboarding
+p-1910,a,email out to client with letters and advice,0.3,YES,Senior,client time
+p-1911,a,revise advice re open offer,0.3,YES,Senior,preparing documents
+p-1912,a,prep of response to client,0.5,YES,Partner,client time
+p-1913,a,finalise letter of engagement and risk assessment,0.3,NO,Partner,onboarding
+p-1914,a,initial review of w d eighty one,0.4,YES,Junior,"analyse, review, research"
+p-1915,a,draft d eighty one -review client's figures and amend form slightly.,0.3,YES,Senior,preparing documents
+p-1917,a,reviewed updated income needs schedule and added comments,1.7,YES,Senior,"analyse, review, research"
+p-1918,a,drafting and sending email to family onboarding team with draft letter of engagement and risk assessment.,0.3,NO,Junior,onboarding
+p-1919,a,email to client attaching letter of engagement / other documents,0.1,NO,Junior,onboarding
+p-1920,a,supervision: revise/add to email to client about other side costs,0.3,NO,Senior,admin
+p-1924,a,"communicate (with client) review/analyse documents recieved from other side, produce spreadsheet analysis of bonus income, email out to client with advice",2,YES,Senior,client time
+p-1925,a,email client,0.4,YES,Junior,client time
+p-1927,a,draft/ revise - letter of engagement and risk assessment,0.5,NO,Partner,onboarding
+p-1928,a,"communicate (with client) re call today, order updated too to consider",0.1,YES,Senior,client time
+p-1929,a,communicate (other party(s)/other outside lawyers) re letter with documents translated,0.1,YES,Senior,Other comms
+p-1930,a,checked time records and uploaded to bill,0.4,NO,Junior,billing
+p-1931,a,reading-in/reviewing settlement terms and the previous disclosure ahead of drafting,0.3,YES,Senior,preparing documents
+p-1932,a,updating form e,0.6,YES,Senior,preparing documents
+p-1933,a,reviewing 2x emails from counsel and considering their availability and fees for private financial dispute resolution.,0.3,YES,Junior,"analyse, review, research"
+p-1934,a,updating form e following receipt of additional information from client.,0.5,YES,Junior,preparing documents
+p-1939,a,amending schedule of def and emailing to client.,0.4,YES,Junior,client time
+p-1940,a,review cafcass report and recommendations,0.5,YES,Partner,"analyse, review, research"
+p-1941,a,draft/ revise,1.8,YES,Junior,preparing documents
+p-1943,a,email with c100 & review same ahead of meeting & respond to acknowl.,0.2,YES,Junior,"analyse, review, research"
+p-1945,a,draft letter to other side,0.5,YES,Junior,preparing documents
+p-1947,a,letter of engagement and terms of business,1.1,NO,Junior,onboarding
+p-1950,a,communicate report to client,0.1,YES,Senior,client time
+p-1951,a,draft letter of engagement and associated documents.,0.8,NO,Junior,onboarding
+p-1952,a,communicate (other party(s)/other outside lawyers) email out to other side with approved letter,0.1,YES,Junior,Other comms
+p-1953,a,costs review,1,NO,Junior,admin
+p-1954,a,email out with final order,0.1,YES,Senior,client time
+p-1955,a,email from client - chased pension details. spoke to someone. not sure why nothing done. she will work on it over weekend. hopefully to get work completed in next week.,0.1,YES,Senior,client time
+p-1956,a,email to client chasing response,0.1,YES,Senior,client time
+p-1957,a,draft/ revise schedule of assets,0.3,YES,Senior,preparing documents
+p-1959,a,review cafcass letter,0.3,YES,Senior,"analyse, review, research"
+p-1961,a,communicate (other party(s)/other outside lawyers)- email out other side chaser,0.1,YES,Senior,Other comms
+p-1963,a,communicate (with client) enclosing draft to other side,0.1,YES,Senior,client time
+p-1964,a,initial fixed fee appointment,1.6,YES,Junior,client time
+p-1965,a,communicate (other party(s)/other outside lawyers) - from other side re property valuations,0.1,YES,Senior,Other comms
+p-1968,a,update letter re next steps and update into next week,0.2,YES,Senior,client time
+p-1970,a,communicate (with client) re costs.,0.1,NO,Junior,admin
+p-1971,a,advice to client with update on next steps,0.4,YES,Junior,client time
+p-1972,a,email from client - she is chasing pension info,0.1,YES,Senior,client time
+p-1973,a,communicate (other party(s)/other outside lawyers) - letter to other side.,0.1,YES,Senior,Other comms
+p-1974,a,considering file further to letter from other side and preparing an email to client with my advice.,0.5,YES,Senior,client time
+p-1975,a,manchester to sheffield,2.2,NO,Senior,admin
+p-1976,a,amended letter of engagement,0.7,NO,Junior,onboarding
+p-1978,a,emailing post room to print and send copy of letter of engagement to client as requested,0.1,NO,Junior,onboarding
+p-1980,a,catch up after annual leave,1,NO,Junior,admin
+p-1981,a,further emails with client.,0.2,YES,Senior,client time
+p-1982,a,supervision: draft/revise review and amend enclosure,0.7,NO,Senior,preparing documents
+p-1983,a,preparation of offer,6.5,YES,Partner,client time
+p-1985,a,1hr tel call with client,1,YES,Partner,client time
+p-1986,a,review of general practitioner letter and noting comments,0.1,YES,Senior,"analyse, review, research"
+p-1987,a,email out to client with advice on open mps offer,0.5,YES,Senior,client time
+p-1990,a,preparing letter of engagement and risk assessment.,0.9,NO,Junior,onboarding
+p-1991,a,email to new client,0.2,YES,Junior,client time
+p-1992,a,further drafting brief to counsel / finishing brief (15 pages),2.6,YES,Junior,preparing documents
+p-1993,a,signing off drafted documents - ready to send to client,0.2,NO,Partner,onboarding
+p-1994,a,draft of fm5 form,0.8,YES,Senior,preparing documents
+p-1995,a,communicate (other party(s)/other outside lawyers) email out to other side re viewings,0.2,YES,Junior,Other comms
+p-1997,a,reviewed email from conveyancer,0.4,YES,Senior,"analyse, review, research"
+p-1998,a,email from client re draft to other side,0.2,YES,Senior,client time
+p-2000,a,updating disclosure further to receipt of client's outstanding bank statements.,0.9,YES,Junior,preparing documents
+p-2002,a,detailed advice to client following meeting with other side and setting out options.,1.3,YES,Senior,client time
+p-2003,a,"meeting with client (mediation strategy, progress and next steps before first mediation session).",1.9,YES,Senior,client time
+p-2004,a,email advice to client re mediation and open proposal,0.2,YES,Senior,client time
+p-2005,a,amend letter to other side,0.4,YES,Junior,preparing documents
+p-2006,a,communicate (internally within legal team) re final order and draft emails to client and other side,0.2,YES,Junior,Other comms
+p-2008,a,"communicate (other party(s)/other outside lawyers) letter to other side regarding trusts meeting, consent order and next steps.",0.4,YES,Senior,Other comms
+p-2009,a,communicate (with client) and court regarding pension share implementation.,0.2,YES,Senior,client time
+p-2010,a,call with client to confirm letter sent to school,0.1,YES,Junior,client time
+p-2011,a,communicate (other party(s)/other outside lawyers) - suggesting mediation but then also suggesting date to exchange financial disclosure,0.1,YES,Senior,Other comms
+p-2012,a,"around 11 emails on case noted , client call re judgment and appeal / next steps ; also press release emails and documents for client",2.4,YES,Senior,client time
+p-2013,a,draft/ revise d eighty one,1,YES,Senior,preparing documents
+p-2014,a,drafted billing correspondence for client,0.3,NO,Junior,billing
+p-2015,a,email to onboarding chasing approval of urgent letter of engagement.,0.1,NO,Junior,onboarding
+p-2016,a,email out to the client re updating his financial disclosure ready to exchange,0.3,YES,Junior,client time
+p-2017,a,reviewing the email from client and email in response to acknowledge payment and his signed letter of engagement. saying that we will begin to prepare the draft letter in due course.,0.2,NO,Junior,onboarding
+p-2019,a,supervision: review cointer prposal in from other side and revise advice to client,0.3,NO,Senior,admin
+p-2021,a,locating and sending documents for printing ahead of conference,0.2,NO,Junior,admin
+p-2022,a,thorough review of pna. input client amends and provision as per instructions on call.,1.2,YES,Senior,"analyse, review, research"
+p-2024,a,email to client advising on maintenance without contact arrangments and upcoming contact arrangements,0.6,YES,Junior,client time
+p-2025,a,"communicate (internally within legal team), drafting advice and request for information email to the client",0.6,YES,Junior,Other comms
+p-2026,a,reviewed bundle index and highlighted missing documents,1.1,YES,Senior,"analyse, review, research"
+p-2027,a,"re-dated letter to other side, amended deadline for response and drafted letter to other side",0.4,YES,Junior,preparing documents
+p-2029,a,draft letter to other side,0.6,YES,Junior,preparing documents
+p-2031,a,analysed directions from court- noting on paper initial directions,1.2,YES,Senior,"analyse, review, research"
+p-2032,a,preparing form h,0.7,YES,Junior,preparing documents
+p-2033,a,drafting file note from client meeting,0.5,YES,Junior,preparing documents
+p-2034,a,email out to client with consent order and comments - agreed no charge,0.2,NO,Partner,client time
+p-2036,a,email from client,0.1,YES,Senior,client time
+p-2037,a,supervision of junior staff. review d eighty one.,0.1,YES,Senior,"analyse, review, research"
+p-2038,a,email to client with questions regarding schedule of income needs and sending draft loan agreement for completion.,0.1,YES,Junior,client time
+p-2039,a,amending draft letter as per client instructions,0.2,YES,Junior,preparing documents
+p-2040,a,call in from client - downloading and checking signed replies,0.1,YES,Junior,client time
+p-2041,a,first meeting with client (see note).,1.6,YES,Senior,client time
+p-2043,a,email out to client with letter of authority,0.1,YES,Senior,client time
+p-2045,a,finalising letter of engagement to send out,0.2,NO,Senior,onboarding
+p-2046,a,supervision: revise/amend draft offer letter to other side,0.3,NO,Senior,preparing documents
+p-2047,a,email out to the other side re questionnaire exchange chaser,0.1,YES,Junior,client time
+p-2050,a,updating schedule of assets form,0.1,YES,Junior,preparing documents
+p-2051,a,draft and amend letter of engagement and associated documents,0.6,NO,Junior,onboarding
+p-2052,a,preparing a letter of engagement,0.8,NO,Junior,onboarding
+p-2053,a,draft brief to counsel,1.2,YES,Partner,preparing documents
+p-2054,a,email from client with instructions on letter,0.1,YES,Senior,client time
+p-2055,a,"communicate (other party(s)/other outside lawyers) - email out to other side chasing urgent update and requets for h form h, form g, and updated case summary and schedule of assets to include in court bundle for fda",0.1,YES,Junior,Other comms
+p-2056,a,tel call with client re offer,0.9,YES,Junior,client time
+p-2057,a,email in client comments on d eighty one and consent order,0.1,YES,Senior,client time
+p-2058,a,communicate (other party(s)/other outside lawyers) chasing other side regarding draft order and d eighty one.,0.1,YES,Senior,Other comms
+p-2059,a,preparing department strategy,3,NO,Partner,admin
+p-2060,a,finalise draft letter of engagement and send to onboarding. emails to client seeking conflict details of ex-husband.,0.6,NO,Senior,onboarding
+p-2061,a,attending the private financial dispute resolution and preparing file note of attendance,7.5,YES,Junior,client time
+p-2062,a,consider client's email and respond,0.1,YES,Junior,client time
+p-2063,a,attend on client in initial appointment,1,YES,Senior,client time
+p-2064,a,"intl call discussing client's statement, next steps and email from client",0.5,YES,Senior,client time
+p-2065,a,liaise with onboarding re letter of engagement and associated documents.,0.4,NO,Junior,onboarding
+p-2066,a,reviewed transcript and summarised key points for file note,2,YES,Senior,"analyse, review, research"
+p-2068,a,communicate (other party(s)/other outside lawyers) emial in with letter and order re adjourning final hearing. not at this stage conidering the proposed order,0.1,YES,Partner,Other comms
+p-2069,a,"draft onboarding documents, and internal to approve/ finalise risk and compliance.",1,YES,Junior,preparing documents
+p-2070,a,email to client - re report from general practitioner,0.1,YES,Senior,client time
+p-2071,a,supervision: review file and letters from other side and then revise/amend draft letter,0.5,NO,Senior,preparing documents
+p-2073,a,amending draft letter to other side from client's comments and making parenting plan spreadsheet of client's current proposal.,1.1,YES,Junior,preparing documents
+p-2075,a,communicate (other party(s)/other outside lawyers) reply re section a docs timescales and counsel,0.1,YES,Senior,Other comms
+p-2077,a,review of papers and draft position note before hearing,0.6,YES,Senior,"analyse, review, research"
+p-2079,a,training,1,NO,Junior,admin
+p-2080,a,email to client.,0.1,YES,Senior,client time
+p-2081,a,email to client - got further copy of dbs check,0.1,YES,Senior,client time
+p-2082,a,email from client and email in response advising how to approach mediation,0.1,YES,Partner,client time
+p-2083,a,email out to client,0.3,YES,Senior,client time
+p-2084,a,considering next steps,0.1,YES,Senior,"analyse, review, research"
+p-2085,a,analysis of case files,0.5,YES,Junior,"analyse, review, research"
+p-2086,a,drafted letter to court,0.2,YES,Senior,preparing documents
+p-2087,a,review clients medical report in advance of first hearing dispute resolution appointment. email to client chasing for response about hearing representation.,0.2,YES,Senior,client time
+p-2089,a,draft to other side re order,0.6,YES,Senior,preparing documents
+p-2090,a,amend cb information,0.2,YES,Junior,preparing documents
+p-2091,a,amend schedule of assets,1,YES,Junior,preparing documents
+p-2092,a,amend letter of engagement and send to onboarding,0.2,YES,Junior,onboarding
+p-2093,a,amends to ex107.,0.2,YES,Junior,preparing documents
+p-2094,a,"bundle work - creating new section, adding enclosures, amending bookmarks/dividers, ensuring correctly matched to index.",1,YES,Junior,preparing documents
+p-2095,a,conference with counsel,2.2,YES,Senior,client time
+p-2096,a,conference with counsel.,2.3,YES,Junior,client time
+p-2097,a,diarise court directions,0.2,YES,Junior,"analyse, review, research"
+p-2098,a,discuss cases generally with collegues in office,0.5,YES,Senior,client time
+p-2099,a,filing questionnaire with judge,0.1,YES,Senior,client time
+p-2100,a,finalise divorce letter,0.1,YES,Partner,preparing documents
+p-2101,a,finalise occupation order letter,0.2,YES,Partner,"analyse, review, research"
+p-2102,a,finalise questionnaire taking into account comments,0.1,YES,Partner,"analyse, review, research"
+p-2103,a,"finalising c1a response, finalising preliminary documents (index, case summary, chronology), letter to other side",2.5,YES,Junior,preparing documents
+p-2104,a,form e enclosures,1.6,YES,Junior,preparing documents
+p-2105,a,form h,1,YES,Senior,preparing documents
+p-2106,a,handover notes,2.1,YES,Senior,admin
+p-2107,a,"letter of engagement, aml risk assessment and family risk assessment.",0.8,YES,Junior,onboarding
+p-2108,a,prepairng offers and taking instructions,0.8,YES,Partner,"analyse, review, research"
+p-2109,a,research,0.6,YES,Junior,preparing documents
+p-2110,a,research surveyors,0.3,YES,Senior,"analyse, review, research"
+p-2111,a,revision of client's replies to questionnaire,0.1,YES,Junior,client time
+p-2113,a,taking note during client meeting.,1.9,YES,Junior,client time
+p-2114,a,tweak wp proposal and open letter to other party,0.2,YES,Junior,preparing documents
+p-2115,a,updating c7 and prep of notice of acting,0.1,YES,Senior,preparing documents
+p-2116,a,updating form h,0.8,YES,Senior,preparing documents
+p-2117,a,amend divorce application,0.2,YES,Junior,preparing documents
+p-2118,a,amend case summary,0.1,YES,Junior,preparing documents
+p-2119,a,dealing with complaint. [no charge],2.9,NO,Senior,admin
+p-2120,a,filing via court portal,0.1,YES,Senior,"analyse, review, research"
+p-2121,a,further work on costs letter,0.2,NO,Junior,admin
+p-2122,a,internal re file transfer,0.1,NO,Junior,admin
+p-2123,a,logging complaint on system,0.1,NO,Senior,admin
+p-2124,a,risk assessment,0.2,NO,Junior,onboarding
+p-2125,a,research into appeals timeframe and calls out to appeals court,0.6,YES,Junior,client time
+p-2126,a,revision of client's form e,0.7,YES,Junior,preparing documents
+p-2127,a,revision to form e - finalising,0.5,YES,Junior,preparing documents
+p-2128,a,revisions to d eighty one statement of information,0.4,YES,Junior,preparing documents
+p-2129,a,"appear for/ attend full day final hearing - including travel (1 hour morning, 3 hours evening)",12,YES,Junior,client time
+p-2130,a,attend rtm 9.30am - 7.30pm (10 hours),9,YES,Junior,client time
+p-2131,a,draft/ revise statement,1.8,YES,Senior,preparing documents
+p-2132,a,draft/ revise- preparedraft schedule of assets,1.8,YES,Junior,preparing documents
+p-2133,a,draft/ revise n260,1.8,YES,Junior,preparing documents
+p-2134,a,draft prenup and letter of advice,1.8,YES,Partner,preparing documents
+p-2135,a,draft s25 statement,1.7,YES,Senior,preparing documents
+p-2136,a,non-billable travel time,1.5,NO,Senior,admin
+p-2137,a,drafting c1a and preliminiary documents,1.4,YES,Junior,preparing documents
+p-2138,a,pre-hearing conference with client,1.3,YES,Senior,client time
+p-2139,a,tidying note of private financial dispute resolution,1.2,YES,Junior,preparing documents
+p-2140,a,"taking transfer, running conflict, speaking with enquirer, amending sp form, message internal, diarising call, email to enquirer.",1.1,YES,Junior,client time
+p-2141,a,email to other side with loi,0.1,YES,Senior,client time
+p-2142,a,email expert confirming instruction,0.1,YES,Senior,client time
+p-2143,a,no charge - approve waiver,0.1,NO,Partner,billing
+p-2144,a,note d11 approved to deal with hearing and update client,0.1,YES,Partner,client time
+p-2145,a,finalise letter,0.1,YES,Partner,preparing documents
+p-2146,a,checking amends,0.1,YES,Partner,"analyse, review, research"
+p-2147,a,input re loi.,0.1,YES,Senior,client time
+p-2148,a,email to police,0.1,YES,Junior,client time
+p-2149,a,consider letter from bank solicitors,0.1,YES,Junior,"analyse, review, research"
+p-2150,a,further email to case manager (2),0.1,YES,Junior,client time
+p-2151,a,follow up email re inventory,0.1,YES,Junior,client time
+p-2153,a,email out to cl re letter to ops,0.1,YES,Junior,client time
+p-2155,a,email out to cl re bundles,0.1,YES,Junior,client time
+p-2157,a,email out to cl re final replies,0.1,YES,Junior,client time
